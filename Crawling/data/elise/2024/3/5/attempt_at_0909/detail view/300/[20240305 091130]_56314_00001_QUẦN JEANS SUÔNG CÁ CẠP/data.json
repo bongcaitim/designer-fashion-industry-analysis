@@ -1,0 +1,23 @@
+[
+    {
+        "product_id":"56314",
+        "general_id":"elise_56314",
+        "sku":"FF2309036BPDEBL",
+        "product_name":"QUẦN JEANS SUÔNG CÁ CẠP",
+        "price":"1.098.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_QUẦN JEANS SUÔNG CÁ CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309036bpdebl1.jpg",
+            "002_QUẦN JEANS SUÔNG CÁ CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309036bpdebl3.jpg",
+            "003_QUẦN JEANS SUÔNG CÁ CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309036bpdebl.jpg",
+            "004_QUẦN JEANS SUÔNG CÁ CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309036bpdebl4.jpg",
+            "005_QUẦN JEANS SUÔNG CÁ CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309036bpdebl2.jpg"
+        }
+    }
+]

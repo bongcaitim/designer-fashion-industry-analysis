@@ -1,0 +1,20 @@
+[
+    {
+        "product_id":"55507",
+        "general_id":"elise_55507",
+        "sku":"FF2309011TUWOBK",
+        "product_name":"VEST LỬNG GẤM HOA ĐEN KIM TUYẾN",
+        "price":"1.698.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_VEST LỬNG GẤM HOA ĐEN KIM TUYẾN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309011tuwobk12.jpg",
+            "002_VEST LỬNG GẤM HOA ĐEN KIM TUYẾN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309011tuwobk11.jpg"
+        }
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "product_id":"55512",
+        "general_id":"elise_55512",
+        "sku":"FF2309012DIWOBK",
+        "product_name":"ĐẦM GẤM HOA ĐEN KT BẤU MÍ EO",
+        "price":"2.498.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_ĐẦM GẤM HOA ĐEN KT BẤU MÍ EO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309012diwobk11.jpg",
+            "002_ĐẦM GẤM HOA ĐEN KT BẤU MÍ EO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309012diwobk12.jpg"
+        }
+    }
+]

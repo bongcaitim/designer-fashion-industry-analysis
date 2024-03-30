@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56198",
+        "general_id":"elise_56198",
+        "sku":"FS2305296TSORGE",
+        "product_name":"SM TƠ XANH CỐM CỔ V XẾP LY",
+        "price":"1.098.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_SM TƠ XANH CỐM CỔ V XẾP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2305296tsorge3.jpg",
+            "002_SM TƠ XANH CỐM CỔ V XẾP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2305296tsorge2.jpg",
+            "003_SM TƠ XANH CỐM CỔ V XẾP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2305296tsorge1.jpg",
+            "004_SM TƠ XANH CỐM CỔ V XẾP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2305296tsorge.jpg"
+        }
+    }
+]

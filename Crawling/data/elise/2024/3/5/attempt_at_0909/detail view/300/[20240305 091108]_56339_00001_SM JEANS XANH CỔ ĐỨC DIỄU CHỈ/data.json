@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56339",
+        "general_id":"elise_56339",
+        "sku":"FF2307140TLDEBL",
+        "product_name":"SM JEANS XANH CỔ ĐỨC DIỄU CHỈ",
+        "price":"1.398.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_SM JEANS XANH CỔ ĐỨC DIỄU CHỈ":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307140tldebl3.jpg",
+            "002_SM JEANS XANH CỔ ĐỨC DIỄU CHỈ":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307140tldebl1.jpg",
+            "003_SM JEANS XANH CỔ ĐỨC DIỄU CHỈ":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307140tldebl2.jpg",
+            "004_SM JEANS XANH CỔ ĐỨC DIỄU CHỈ":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307140tldebl.jpg"
+        }
+    }
+]

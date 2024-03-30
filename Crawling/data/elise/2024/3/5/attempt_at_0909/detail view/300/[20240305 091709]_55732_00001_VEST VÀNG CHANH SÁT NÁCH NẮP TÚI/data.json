@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"55732",
+        "general_id":"elise_55732",
+        "sku":"FF2308045TUWOYL",
+        "product_name":"VEST VÀNG CHANH SÁT NÁCH NẮP TÚI",
+        "price":"1.898.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_VEST VÀNG CHANH SÁT NÁCH NẮP TÚI":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308045tuwoyl2.jpg",
+            "002_VEST VÀNG CHANH SÁT NÁCH NẮP TÚI":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308045tuwoyl3.jpg",
+            "003_VEST VÀNG CHANH SÁT NÁCH NẮP TÚI":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308045tuwoyl.jpg",
+            "004_VEST VÀNG CHANH SÁT NÁCH NẮP TÚI":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308045tuwoyl1.jpg"
+        }
+    }
+]

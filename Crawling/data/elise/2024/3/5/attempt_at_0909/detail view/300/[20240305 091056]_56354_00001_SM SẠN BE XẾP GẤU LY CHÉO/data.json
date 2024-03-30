@@ -1,0 +1,23 @@
+[
+    {
+        "product_id":"56354",
+        "general_id":"elise_56354",
+        "sku":"FS2309045TSWOBE",
+        "product_name":"SM SẠN BE XẾP GẤU LY CHÉO",
+        "price":"1.198.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_SM SẠN BE XẾP GẤU LY CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2309045tswobe2.jpg",
+            "002_SM SẠN BE XẾP GẤU LY CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2309045tswobe3.jpg",
+            "003_SM SẠN BE XẾP GẤU LY CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2309045tswobe.jpg",
+            "004_SM SẠN BE XẾP GẤU LY CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2309045tswobe4.jpg",
+            "005_SM SẠN BE XẾP GẤU LY CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2309045tswobe1.jpg"
+        }
+    }
+]

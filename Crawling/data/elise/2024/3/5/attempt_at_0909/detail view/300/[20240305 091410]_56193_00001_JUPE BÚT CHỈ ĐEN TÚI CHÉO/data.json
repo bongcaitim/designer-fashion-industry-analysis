@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56193",
+        "general_id":"elise_56193",
+        "sku":"FS2311091BKWOBK",
+        "product_name":"JUPE BÚT CHỈ ĐEN TÚI CHÉO",
+        "price":"1.098.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_JUPE BÚT CHỈ ĐEN TÚI CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2311091bkwobk1.jpg",
+            "002_JUPE BÚT CHỈ ĐEN TÚI CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2311091bkwobk3.jpg",
+            "003_JUPE BÚT CHỈ ĐEN TÚI CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2311091bkwobk.jpg",
+            "004_JUPE BÚT CHỈ ĐEN TÚI CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2311091bkwobk2.jpg"
+        }
+    }
+]

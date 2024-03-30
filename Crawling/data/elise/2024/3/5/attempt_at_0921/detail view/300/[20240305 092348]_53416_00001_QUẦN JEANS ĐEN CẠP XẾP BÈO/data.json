@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"53416",
+        "general_id":"elise_53416",
+        "sku":"FF2306342BPDEBK",
+        "product_name":"QUẦN JEANS ĐEN CẠP XẾP BÈO",
+        "price":"1.098.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_QUẦN JEANS ĐEN CẠP XẾP BÈO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306342bpdebk.jpg",
+            "002_QUẦN JEANS ĐEN CẠP XẾP BÈO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306342bpdebk1.jpg",
+            "003_QUẦN JEANS ĐEN CẠP XẾP BÈO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306342bpdebk3.jpg",
+            "004_QUẦN JEANS ĐEN CẠP XẾP BÈO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306342bpdebk2.jpg"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"53426",
+        "general_id":"elise_53426",
+        "sku":"FW2307238BPDEBK",
+        "product_name":"QUẦN JEANS SKINNY ĐEN",
+        "price":"998.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_QUẦN JEANS SKINNY ĐEN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/w\/fw2307238bpdebk2.jpg",
+            "002_QUẦN JEANS SKINNY ĐEN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/w\/fw2307238bpdebk1.jpg",
+            "003_QUẦN JEANS SKINNY ĐEN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/w\/fw2307238bpdebk.jpg",
+            "004_QUẦN JEANS SKINNY ĐEN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/w\/fw2307238bpdebk3.jpg"
+        }
+    }
+]

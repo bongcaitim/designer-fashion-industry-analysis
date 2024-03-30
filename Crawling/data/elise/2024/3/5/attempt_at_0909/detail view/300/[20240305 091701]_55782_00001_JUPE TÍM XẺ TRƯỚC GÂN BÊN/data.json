@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"55782",
+        "general_id":"elise_55782",
+        "sku":"FF2308131BKWOPU",
+        "product_name":"JUPE TÍM XẺ TRƯỚC GÂN BÊN",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_JUPE TÍM XẺ TRƯỚC GÂN BÊN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308131bkwopu.jpg",
+            "002_JUPE TÍM XẺ TRƯỚC GÂN BÊN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308131bkwopu1.jpg",
+            "003_JUPE TÍM XẺ TRƯỚC GÂN BÊN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308131bkwopu3.jpg",
+            "004_JUPE TÍM XẺ TRƯỚC GÂN BÊN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308131bkwopu2.jpg"
+        }
+    }
+]

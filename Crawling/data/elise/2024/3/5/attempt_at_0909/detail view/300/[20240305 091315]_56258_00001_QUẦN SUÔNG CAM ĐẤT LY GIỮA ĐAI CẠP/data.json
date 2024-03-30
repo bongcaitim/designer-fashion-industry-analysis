@@ -1,0 +1,21 @@
+[
+    {
+        "product_id":"56258",
+        "general_id":"elise_56258",
+        "sku":"FF2308013BPWOOR",
+        "product_name":"QUẦN SUÔNG CAM ĐẤT LY GIỮA ĐAI CẠP",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_QUẦN SUÔNG CAM ĐẤT LY GIỮA ĐAI CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308013bpwoor2.jpg",
+            "002_QUẦN SUÔNG CAM ĐẤT LY GIỮA ĐAI CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308013bpwoor1.jpg",
+            "003_QUẦN SUÔNG CAM ĐẤT LY GIỮA ĐAI CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308013bpwoor.jpg"
+        }
+    }
+]

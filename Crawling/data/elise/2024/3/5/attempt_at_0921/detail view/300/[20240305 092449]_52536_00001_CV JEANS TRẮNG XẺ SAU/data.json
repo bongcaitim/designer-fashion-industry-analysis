@@ -1,0 +1,20 @@
+[
+    {
+        "product_id":"52536",
+        "general_id":"elise_52536",
+        "sku":"FF2306344BKDEWH",
+        "product_name":"CV JEANS TRẮNG XẺ SAU",
+        "price":"1.098.000 VND",
+        "size":[
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_CV JEANS TRẮNG XẺ SAU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306344bkdewh.jpg",
+            "002_CV JEANS TRẮNG XẺ SAU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306344bkdewh2.jpg",
+            "003_CV JEANS TRẮNG XẺ SAU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306344bkdewh1.jpg"
+        }
+    }
+]

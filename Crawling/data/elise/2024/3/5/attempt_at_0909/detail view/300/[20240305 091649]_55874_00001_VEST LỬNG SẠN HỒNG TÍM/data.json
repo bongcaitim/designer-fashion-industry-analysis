@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"55874",
+        "general_id":"elise_55874",
+        "sku":"FF2307363TUWOPK",
+        "product_name":"VEST LỬNG SẠN HỒNG TÍM",
+        "price":"1.798.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_VEST LỬNG SẠN HỒNG TÍM":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307363tuwopk3.jpg",
+            "002_VEST LỬNG SẠN HỒNG TÍM":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307363tuwopk.jpg",
+            "003_VEST LỬNG SẠN HỒNG TÍM":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307363tuwopk2.jpg",
+            "004_VEST LỬNG SẠN HỒNG TÍM":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307363tuwopk1.jpg"
+        }
+    }
+]

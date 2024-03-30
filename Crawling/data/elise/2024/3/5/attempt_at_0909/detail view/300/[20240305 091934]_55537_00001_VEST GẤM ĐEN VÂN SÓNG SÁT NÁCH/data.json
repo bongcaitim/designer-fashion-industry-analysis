@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"55537",
+        "general_id":"elise_55537",
+        "sku":"FF2311053TUWOBK",
+        "product_name":"VEST GẤM ĐEN VÂN SÓNG SÁT NÁCH",
+        "price":"2.098.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_VEST GẤM ĐEN VÂN SÓNG SÁT NÁCH":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2311053tuwobk13.jpg",
+            "002_VEST GẤM ĐEN VÂN SÓNG SÁT NÁCH":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2311053tuwobk14.jpg",
+            "003_VEST GẤM ĐEN VÂN SÓNG SÁT NÁCH":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2311053tuwobk11.jpg",
+            "004_VEST GẤM ĐEN VÂN SÓNG SÁT NÁCH":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2311053tuwobk12.jpg"
+        }
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "product_id":"53451",
+        "general_id":"elise_53451",
+        "sku":"FF2305219TLDEBL",
+        "product_name":"ÁO JEANS XANH ĐAI GẤU",
+        "price":"1.698.000 VND",
+        "size":[
+            "S",
+            "M"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_ÁO JEANS XANH ĐAI GẤU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2305219tldebl2.jpg",
+            "002_ÁO JEANS XANH ĐAI GẤU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2305219tldebl3.jpg",
+            "003_ÁO JEANS XANH ĐAI GẤU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2305219tldebl.jpg",
+            "004_ÁO JEANS XANH ĐAI GẤU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2305219tldebl1.jpg"
+        }
+    }
+]

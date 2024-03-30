@@ -1,0 +1,23 @@
+[
+    {
+        "product_id":"56052",
+        "general_id":"elise_56052",
+        "sku":"FF2309060BKORBR",
+        "product_name":"CHÂN VÁY XÒE TƠ NÂU",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_CHÂN VÁY XÒE TƠ NÂU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309060bkorbr.jpg",
+            "002_CHÂN VÁY XÒE TƠ NÂU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309060bkorbr1.jpg",
+            "003_CHÂN VÁY XÒE TƠ NÂU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309060bkorbr4.jpg",
+            "004_CHÂN VÁY XÒE TƠ NÂU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309060bkorbr3.jpg",
+            "005_CHÂN VÁY XÒE TƠ NÂU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309060bkorbr2.jpg"
+        }
+    }
+]

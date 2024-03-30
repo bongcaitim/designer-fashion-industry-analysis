@@ -1,0 +1,21 @@
+[
+    {
+        "product_id":"52481",
+        "general_id":"elise_52481",
+        "sku":"FS2306036BPDEBL",
+        "product_name":"QUẦN JEANS XANH ỐNG LOE",
+        "price":"1.198.000 VND",
+        "size":[
+            "S",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_QUẦN JEANS XANH ỐNG LOE":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2306036bpdebl2.jpg",
+            "002_QUẦN JEANS XANH ỐNG LOE":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2306036bpdebl1.jpg",
+            "003_QUẦN JEANS XANH ỐNG LOE":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2306036bpdebl.jpg",
+            "004_QUẦN JEANS XANH ỐNG LOE":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2306036bpdebl3.jpg"
+        }
+    }
+]

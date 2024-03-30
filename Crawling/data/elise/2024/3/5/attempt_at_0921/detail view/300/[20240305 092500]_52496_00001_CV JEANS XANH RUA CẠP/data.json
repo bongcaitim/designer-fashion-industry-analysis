@@ -1,0 +1,21 @@
+[
+    {
+        "product_id":"52496",
+        "general_id":"elise_52496",
+        "sku":"FF2306345BKDEBL",
+        "product_name":"CV JEANS XANH RUA CẠP",
+        "price":"1.098.000 VND",
+        "size":[
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_CV JEANS XANH RUA CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306345bkdebl1_2.jpg",
+            "002_CV JEANS XANH RUA CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306345bkdebl2_1.jpg",
+            "003_CV JEANS XANH RUA CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306345bkdebl_1.jpg",
+            "004_CV JEANS XANH RUA CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306345bkdebl3_1.jpg"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"54815",
+        "general_id":"elise_54815",
+        "sku":"FF2306096BKWOBE",
+        "product_name":"JUPE TWEED BE CAN CHÉO",
+        "price":"1.198.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_JUPE TWEED BE CAN CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306096bkwobe10.jpg",
+            "002_JUPE TWEED BE CAN CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306096bkwobe11.jpg",
+            "003_JUPE TWEED BE CAN CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306096bkwobe12.jpg",
+            "004_JUPE TWEED BE CAN CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306096bkwobe13.jpg"
+        }
+    }
+]

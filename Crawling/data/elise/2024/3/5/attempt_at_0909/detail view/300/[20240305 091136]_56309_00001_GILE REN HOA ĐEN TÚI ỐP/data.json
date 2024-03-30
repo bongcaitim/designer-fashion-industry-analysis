@@ -1,0 +1,23 @@
+[
+    {
+        "product_id":"56309",
+        "general_id":"elise_56309",
+        "sku":"FF2308139TVLABK",
+        "product_name":"GILE REN HOA ĐEN TÚI ỐP",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_GILE REN HOA ĐEN TÚI ỐP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308139tvlabk3.jpg",
+            "002_GILE REN HOA ĐEN TÚI ỐP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308139tvlabk.jpg",
+            "003_GILE REN HOA ĐEN TÚI ỐP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308139tvlabk4.jpg",
+            "004_GILE REN HOA ĐEN TÚI ỐP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308139tvlabk2.jpg",
+            "005_GILE REN HOA ĐEN TÚI ỐP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308139tvlabk1.jpg"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"55567",
+        "general_id":"elise_55567",
+        "sku":"FF2310123DIWOBK",
+        "product_name":"ĐẦM CHIFFON ĐEN CỔ V NHÚN EO",
+        "price":"2.098.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_ĐẦM CHIFFON ĐEN CỔ V NHÚN EO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2310123diwobk11.jpg",
+            "002_ĐẦM CHIFFON ĐEN CỔ V NHÚN EO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2310123diwobk12.jpg",
+            "003_ĐẦM CHIFFON ĐEN CỔ V NHÚN EO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/d\/t\/dtt_6260_result.jpg",
+            "004_ĐẦM CHIFFON ĐEN CỔ V NHÚN EO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2310123diwobk13.jpg"
+        }
+    }
+]

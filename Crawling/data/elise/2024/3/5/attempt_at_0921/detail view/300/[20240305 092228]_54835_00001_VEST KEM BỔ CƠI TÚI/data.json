@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"54835",
+        "general_id":"elise_54835",
+        "sku":"FF2307011TUWOCR",
+        "product_name":"VEST KEM BỔ CƠI TÚI",
+        "price":"2.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_VEST KEM BỔ CƠI TÚI":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307011tuwocr10.jpg",
+            "002_VEST KEM BỔ CƠI TÚI":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307011tuwocr12.jpg",
+            "003_VEST KEM BỔ CƠI TÚI":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307011tuwocr11.jpg",
+            "004_VEST KEM BỔ CƠI TÚI":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307011tuwocr13.jpg"
+        }
+    }
+]

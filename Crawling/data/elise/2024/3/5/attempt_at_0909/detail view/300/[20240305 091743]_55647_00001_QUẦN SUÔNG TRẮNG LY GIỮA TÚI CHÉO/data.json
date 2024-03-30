@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"55647",
+        "general_id":"elise_55647",
+        "sku":"FF2309133BPWOWH",
+        "product_name":"QUẦN SUÔNG TRẮNG LY GIỮA TÚI CHÉO",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_QUẦN SUÔNG TRẮNG LY GIỮA TÚI CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309133bpwowh1.jpg",
+            "002_QUẦN SUÔNG TRẮNG LY GIỮA TÚI CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309133bpwowh2.jpg",
+            "003_QUẦN SUÔNG TRẮNG LY GIỮA TÚI CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309133bpwowh.jpg",
+            "004_QUẦN SUÔNG TRẮNG LY GIỮA TÚI CHÉO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309133bpwowh3.jpg"
+        }
+    }
+]

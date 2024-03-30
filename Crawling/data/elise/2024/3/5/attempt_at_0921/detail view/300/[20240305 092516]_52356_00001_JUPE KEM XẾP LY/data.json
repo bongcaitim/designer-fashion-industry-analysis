@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"52356",
+        "general_id":"elise_52356",
+        "sku":"FS2303250BKWOCR",
+        "product_name":"JUPE KEM XẾP LY",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_JUPE KEM XẾP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2303250bkwocr.jpg",
+            "002_JUPE KEM XẾP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2303250bkwocr3.jpg",
+            "003_JUPE KEM XẾP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2303250bkwocr2.jpg",
+            "004_JUPE KEM XẾP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2303250bkwocr1.jpg"
+        }
+    }
+]

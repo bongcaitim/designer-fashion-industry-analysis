@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56213",
+        "general_id":"elise_56213",
+        "sku":"FF2306024BPWOBK",
+        "product_name":"QUẦN SUÔNG ĐEN GÂN GIỮA",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_QUẦN SUÔNG ĐEN GÂN GIỮA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306024bpwobk2.jpg",
+            "002_QUẦN SUÔNG ĐEN GÂN GIỮA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306024bpwobk1.jpg",
+            "003_QUẦN SUÔNG ĐEN GÂN GIỮA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306024bpwobk.jpg",
+            "004_QUẦN SUÔNG ĐEN GÂN GIỮA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306024bpwobk3.jpg"
+        }
+    }
+]

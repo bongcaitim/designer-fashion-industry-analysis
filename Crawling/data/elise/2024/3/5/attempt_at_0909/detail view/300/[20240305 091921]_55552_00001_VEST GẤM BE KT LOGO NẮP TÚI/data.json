@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"55552",
+        "general_id":"elise_55552",
+        "sku":"FF2307084TUWOBE",
+        "product_name":"VEST GẤM BE KT LOGO NẮP TÚI",
+        "price":"2.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_VEST GẤM BE KT LOGO NẮP TÚI":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307084tuwobe14.jpg",
+            "002_VEST GẤM BE KT LOGO NẮP TÚI":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307084tuwobe13.jpg",
+            "003_VEST GẤM BE KT LOGO NẮP TÚI":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307084tuwobe11.jpg",
+            "004_VEST GẤM BE KT LOGO NẮP TÚI":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307084tuwobe12.jpg"
+        }
+    }
+]

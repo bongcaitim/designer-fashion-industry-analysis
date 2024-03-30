@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"53431",
+        "general_id":"elise_53431",
+        "sku":"FF2307254BKDEBL",
+        "product_name":"CV JEANS XANH TÚI ỐP",
+        "price":"998.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_CV JEANS XANH TÚI ỐP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307254bkdebl.jpg",
+            "002_CV JEANS XANH TÚI ỐP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307254bkdebl1.jpg",
+            "003_CV JEANS XANH TÚI ỐP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307254bkdebl2.jpg",
+            "004_CV JEANS XANH TÚI ỐP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307254bkdebl3.jpg"
+        }
+    }
+]

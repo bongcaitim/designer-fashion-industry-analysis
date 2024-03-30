@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"55607",
+        "general_id":"elise_55607",
+        "sku":"FF2309015TUWOPU",
+        "product_name":"VEST VÂN TÍM TAY LƠ VÊ",
+        "price":"1.698.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_VEST VÂN TÍM TAY LƠ VÊ":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309015tuwopu3.jpg",
+            "002_VEST VÂN TÍM TAY LƠ VÊ":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309015tuwopu.jpg",
+            "003_VEST VÂN TÍM TAY LƠ VÊ":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309015tuwopu2.jpg",
+            "004_VEST VÂN TÍM TAY LƠ VÊ":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309015tuwopu1.jpg"
+        }
+    }
+]

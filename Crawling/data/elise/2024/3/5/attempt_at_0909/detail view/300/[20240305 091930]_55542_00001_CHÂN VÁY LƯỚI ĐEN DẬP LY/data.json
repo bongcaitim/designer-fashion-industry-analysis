@@ -1,0 +1,21 @@
+[
+    {
+        "product_id":"55542",
+        "general_id":"elise_55542",
+        "sku":"FF2308107BKLABK",
+        "product_name":"CHÂN VÁY LƯỚI ĐEN DẬP LY",
+        "price":"1.398.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_CHÂN VÁY LƯỚI ĐEN DẬP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308107bklabk11.jpg",
+            "002_CHÂN VÁY LƯỚI ĐEN DẬP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308107bklabk12.jpg",
+            "003_CHÂN VÁY LƯỚI ĐEN DẬP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308107bklabk13.jpg"
+        }
+    }
+]

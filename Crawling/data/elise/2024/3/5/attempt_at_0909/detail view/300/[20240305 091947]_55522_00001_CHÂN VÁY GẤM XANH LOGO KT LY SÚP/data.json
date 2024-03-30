@@ -1,0 +1,21 @@
+[
+    {
+        "product_id":"55522",
+        "general_id":"elise_55522",
+        "sku":"FW2309174BKWOPL",
+        "product_name":"CHÂN VÁY GẤM XANH LOGO KT LY SÚP",
+        "price":"1.698.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_CHÂN VÁY GẤM XANH LOGO KT LY SÚP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/w\/fw2309174bkwopl11.jpg",
+            "002_CHÂN VÁY GẤM XANH LOGO KT LY SÚP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/w\/fw2309174bkwopl12.jpg",
+            "003_CHÂN VÁY GẤM XANH LOGO KT LY SÚP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/w\/fw2309174bkwopl13.jpg"
+        }
+    }
+]

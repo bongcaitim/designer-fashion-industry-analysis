@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"53491",
+        "general_id":"elise_53491",
+        "sku":"FF2307240BKDEWH",
+        "product_name":"CV JEANS TRẮNG RUA GẤU",
+        "price":"1.098.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_CV JEANS TRẮNG RUA GẤU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307240bkdewh2.jpg",
+            "002_CV JEANS TRẮNG RUA GẤU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307240bkdewh.jpg",
+            "003_CV JEANS TRẮNG RUA GẤU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307240bkdewh1.jpg",
+            "004_CV JEANS TRẮNG RUA GẤU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307240bkdewh3.jpg"
+        }
+    }
+]

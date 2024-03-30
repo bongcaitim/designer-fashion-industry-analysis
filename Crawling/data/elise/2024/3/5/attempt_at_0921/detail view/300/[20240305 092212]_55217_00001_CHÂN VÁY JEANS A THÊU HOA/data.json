@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"55217",
+        "general_id":"elise_55217",
+        "sku":"FF2309039BKDEBL",
+        "product_name":"CHÂN VÁY JEANS A THÊU HOA",
+        "price":"1.098.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_CHÂN VÁY JEANS A THÊU HOA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309039bkdebl4.jpg",
+            "002_CHÂN VÁY JEANS A THÊU HOA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309039bkdebl3.jpg",
+            "003_CHÂN VÁY JEANS A THÊU HOA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309039bkdebl.jpg",
+            "004_CHÂN VÁY JEANS A THÊU HOA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309039bkdebl2.jpg"
+        }
+    }
+]

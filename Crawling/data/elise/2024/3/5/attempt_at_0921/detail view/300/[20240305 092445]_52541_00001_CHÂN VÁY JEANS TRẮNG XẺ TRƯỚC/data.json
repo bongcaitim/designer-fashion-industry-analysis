@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"52541",
+        "general_id":"elise_52541",
+        "sku":"FF2306205BKDEWH",
+        "product_name":"CHÂN VÁY JEANS TRẮNG XẺ TRƯỚC",
+        "price":"1.198.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_CHÂN VÁY JEANS TRẮNG XẺ TRƯỚC":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306205bkdewh.jpg",
+            "002_CHÂN VÁY JEANS TRẮNG XẺ TRƯỚC":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306205bkdewh3.jpg",
+            "003_CHÂN VÁY JEANS TRẮNG XẺ TRƯỚC":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306205bkdewh2.jpg",
+            "004_CHÂN VÁY JEANS TRẮNG XẺ TRƯỚC":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306205bkdewh1.jpg"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "product_id":"56299",
+        "general_id":"elise_56299",
+        "sku":"FF2306275TULAPW",
+        "product_name":"VEST REN TRẮNG HT QUẢ TRÁM",
+        "price":"2.098.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_VEST REN TRẮNG HT QUẢ TRÁM":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306275tulapw.jpg",
+            "002_VEST REN TRẮNG HT QUẢ TRÁM":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306275tulapw3.jpg",
+            "003_VEST REN TRẮNG HT QUẢ TRÁM":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306275tulapw5.jpg",
+            "004_VEST REN TRẮNG HT QUẢ TRÁM":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306275tulapw4.jpg",
+            "005_VEST REN TRẮNG HT QUẢ TRÁM":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306275tulapw2.jpg",
+            "006_VEST REN TRẮNG HT QUẢ TRÁM":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306275tulapw1.jpg"
+        }
+    }
+]

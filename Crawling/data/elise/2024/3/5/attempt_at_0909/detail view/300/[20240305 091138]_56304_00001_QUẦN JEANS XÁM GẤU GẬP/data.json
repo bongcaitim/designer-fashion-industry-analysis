@@ -1,0 +1,24 @@
+[
+    {
+        "product_id":"56304",
+        "general_id":"elise_56304",
+        "sku":"FF2308035BPDEGR",
+        "product_name":"QUẦN JEANS XÁM GẤU GẬP",
+        "price":"1.098.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_QUẦN JEANS XÁM GẤU GẬP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308035bpdegr.jpg",
+            "002_QUẦN JEANS XÁM GẤU GẬP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308035bpdegr5.jpg",
+            "003_QUẦN JEANS XÁM GẤU GẬP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308035bpdegr4.jpg",
+            "004_QUẦN JEANS XÁM GẤU GẬP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308035bpdegr3.jpg",
+            "005_QUẦN JEANS XÁM GẤU GẬP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308035bpdegr2.jpg",
+            "006_QUẦN JEANS XÁM GẤU GẬP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308035bpdegr1.jpg"
+        }
+    }
+]

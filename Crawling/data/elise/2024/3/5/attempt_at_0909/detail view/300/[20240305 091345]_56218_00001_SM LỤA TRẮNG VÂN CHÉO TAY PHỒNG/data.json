@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56218",
+        "general_id":"elise_56218",
+        "sku":"FS2311080TLSIWH",
+        "product_name":"SM LỤA TRẮNG VÂN CHÉO TAY PHỒNG",
+        "price":"1.098.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_SM LỤA TRẮNG VÂN CHÉO TAY PHỒNG":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2311080tlsiwh3.jpg",
+            "002_SM LỤA TRẮNG VÂN CHÉO TAY PHỒNG":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2311080tlsiwh2.jpg",
+            "003_SM LỤA TRẮNG VÂN CHÉO TAY PHỒNG":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2311080tlsiwh1.jpg",
+            "004_SM LỤA TRẮNG VÂN CHÉO TAY PHỒNG":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2311080tlsiwh.jpg"
+        }
+    }
+]

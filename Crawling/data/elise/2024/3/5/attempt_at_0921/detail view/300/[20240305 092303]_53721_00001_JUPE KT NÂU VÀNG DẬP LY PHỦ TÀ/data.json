@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"53721",
+        "general_id":"elise_53721",
+        "sku":"FF2306135BKWOBR",
+        "product_name":"JUPE KT NÂU VÀNG DẬP LY PHỦ TÀ",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_JUPE KT NÂU VÀNG DẬP LY PHỦ TÀ":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306135bkwobr1.jpg",
+            "002_JUPE KT NÂU VÀNG DẬP LY PHỦ TÀ":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306135bkwobr.jpg",
+            "003_JUPE KT NÂU VÀNG DẬP LY PHỦ TÀ":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306135bkwobr3.jpg",
+            "004_JUPE KT NÂU VÀNG DẬP LY PHỦ TÀ":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306135bkwobr2.jpg"
+        }
+    }
+]
