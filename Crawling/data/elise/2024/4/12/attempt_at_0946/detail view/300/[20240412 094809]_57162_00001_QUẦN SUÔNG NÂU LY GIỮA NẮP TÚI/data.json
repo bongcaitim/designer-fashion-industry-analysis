@@ -1,0 +1,21 @@
+[
+    {
+        "product_id":"57162",
+        "general_id":"elise_57162",
+        "sku":"FS2312105BPWOBR",
+        "product_name":"QUẦN SUÔNG NÂU LY GIỮA NẮP TÚI",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_QUẦN SUÔNG NÂU LY GIỮA NẮP TÚI":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312105bpwobr2.jpg",
+            "002_QUẦN SUÔNG NÂU LY GIỮA NẮP TÚI":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312105bpwobr1.jpg",
+            "003_QUẦN SUÔNG NÂU LY GIỮA NẮP TÚI":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312105bpwobr.jpg"
+        }
+    }
+]

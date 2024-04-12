@@ -1,0 +1,21 @@
+[
+    {
+        "product_id":"56541",
+        "general_id":"elise_56541",
+        "sku":"FS2401002BKWOBK",
+        "product_name":"JUPE ĐEN ĐAI BUỘC DÂY LỤA",
+        "price":"1.398.000 VND",
+        "size":[
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_JUPE ĐEN ĐAI BUỘC DÂY LỤA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2401002bkwobk.jpg",
+            "002_JUPE ĐEN ĐAI BUỘC DÂY LỤA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2401002bkwobk3.jpg",
+            "003_JUPE ĐEN ĐAI BUỘC DÂY LỤA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2401002bkwobk1.jpg",
+            "004_JUPE ĐEN ĐAI BUỘC DÂY LỤA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2401002bkwobk2.jpg"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56571",
+        "general_id":"elise_56571",
+        "sku":"FF2308115BKWORD",
+        "product_name":"JUPE ĐỎ XẾP NHÚN ĐÍNH CÚC",
+        "price":"1.198.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_JUPE ĐỎ XẾP NHÚN ĐÍNH CÚC":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308114tnwocr.jpg",
+            "002_JUPE ĐỎ XẾP NHÚN ĐÍNH CÚC":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308114tnwocr2.jpg",
+            "003_JUPE ĐỎ XẾP NHÚN ĐÍNH CÚC":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308114tnwocr1.jpg",
+            "004_JUPE ĐỎ XẾP NHÚN ĐÍNH CÚC":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308114tnwocr3.jpg"
+        }
+    }
+]

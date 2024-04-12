@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56502",
+        "general_id":"elise_56502",
+        "sku":"FS2312121DIWOYL",
+        "product_name":"ĐẦM VÀNG CHÂN XÒE ĐAI EO",
+        "price":"2.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_ĐẦM VÀNG CHÂN XÒE ĐAI EO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312121diwoyl1.jpg",
+            "002_ĐẦM VÀNG CHÂN XÒE ĐAI EO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312121diwoyl.jpg",
+            "003_ĐẦM VÀNG CHÂN XÒE ĐAI EO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312121diwoyl3.jpg",
+            "004_ĐẦM VÀNG CHÂN XÒE ĐAI EO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312121diwoyl2.jpg"
+        }
+    }
+]

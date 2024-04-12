@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56551",
+        "general_id":"elise_56551",
+        "sku":"FF2306130BKWOBE",
+        "product_name":"JUPE TWEED MỎNG BE CẠP LỤA XẾP LY",
+        "price":"1.398.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_JUPE TWEED MỎNG BE CẠP LỤA XẾP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306130bkwobe.jpg",
+            "002_JUPE TWEED MỎNG BE CẠP LỤA XẾP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306130bkwobe2.jpg",
+            "003_JUPE TWEED MỎNG BE CẠP LỤA XẾP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306130bkwobe1.jpg",
+            "004_JUPE TWEED MỎNG BE CẠP LỤA XẾP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306130bkwobe3.jpg"
+        }
+    }
+]

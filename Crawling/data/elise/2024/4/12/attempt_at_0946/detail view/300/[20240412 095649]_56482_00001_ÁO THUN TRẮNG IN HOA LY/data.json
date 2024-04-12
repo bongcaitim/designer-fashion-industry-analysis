@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56482",
+        "general_id":"elise_56482",
+        "sku":"FS2312076TSKCWH",
+        "product_name":"ÁO THUN TRẮNG IN HOA LY",
+        "price":"648.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_ÁO THUN TRẮNG IN HOA LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312076tskcwh13.jpg",
+            "002_ÁO THUN TRẮNG IN HOA LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312076tskcwh11.jpg",
+            "003_ÁO THUN TRẮNG IN HOA LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312076tskcwh12.jpg",
+            "004_ÁO THUN TRẮNG IN HOA LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312076tskcwh14.jpg"
+        }
+    }
+]

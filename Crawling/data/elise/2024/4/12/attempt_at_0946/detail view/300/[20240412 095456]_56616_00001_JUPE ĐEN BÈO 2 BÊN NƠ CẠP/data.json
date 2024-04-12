@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56616",
+        "general_id":"elise_56616",
+        "sku":"FS2312150BKWOBK",
+        "product_name":"JUPE ĐEN BÈO 2 BÊN NƠ CẠP",
+        "price":"1.098.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_JUPE ĐEN BÈO 2 BÊN NƠ CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312150bkwobk.jpg",
+            "002_JUPE ĐEN BÈO 2 BÊN NƠ CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312150bkwobk3.jpg",
+            "003_JUPE ĐEN BÈO 2 BÊN NƠ CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312150bkwobk2.jpg",
+            "004_JUPE ĐEN BÈO 2 BÊN NƠ CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312150bkwobk1.jpg"
+        }
+    }
+]

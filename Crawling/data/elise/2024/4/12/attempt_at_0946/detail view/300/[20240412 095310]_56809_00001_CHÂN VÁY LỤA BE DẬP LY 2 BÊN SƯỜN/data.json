@@ -1,0 +1,21 @@
+[
+    {
+        "product_id":"56809",
+        "general_id":"elise_56809",
+        "sku":"FF2306197BKSIBE",
+        "product_name":"CHÂN VÁY LỤA BE DẬP LY 2 BÊN SƯỜN",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_CHÂN VÁY LỤA BE DẬP LY 2 BÊN SƯỜN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306197bksibe.jpg",
+            "002_CHÂN VÁY LỤA BE DẬP LY 2 BÊN SƯỜN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306197bksibe1.jpg",
+            "003_CHÂN VÁY LỤA BE DẬP LY 2 BÊN SƯỜN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306197bksibe2.jpg"
+        }
+    }
+]

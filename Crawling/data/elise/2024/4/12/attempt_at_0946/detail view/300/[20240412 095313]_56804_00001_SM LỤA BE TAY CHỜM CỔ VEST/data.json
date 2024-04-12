@@ -1,0 +1,21 @@
+[
+    {
+        "product_id":"56804",
+        "general_id":"elise_56804",
+        "sku":"FF2306196TNSIBE",
+        "product_name":"SM LỤA BE TAY CHỜM CỔ VEST",
+        "price":"1.198.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_SM LỤA BE TAY CHỜM CỔ VEST":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306196tnsibe.jpg",
+            "002_SM LỤA BE TAY CHỜM CỔ VEST":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306196tnsibe2.jpg",
+            "003_SM LỤA BE TAY CHỜM CỔ VEST":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2306196tnsibe1.jpg"
+        }
+    }
+]

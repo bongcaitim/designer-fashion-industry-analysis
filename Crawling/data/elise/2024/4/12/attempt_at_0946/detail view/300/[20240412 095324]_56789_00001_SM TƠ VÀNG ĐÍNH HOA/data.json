@@ -1,0 +1,21 @@
+[
+    {
+        "product_id":"56789",
+        "general_id":"elise_56789",
+        "sku":"FF2311041TSORYL",
+        "product_name":"SM TƠ VÀNG ĐÍNH HOA",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_SM TƠ VÀNG ĐÍNH HOA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2311041tsoryl1_1.jpg",
+            "002_SM TƠ VÀNG ĐÍNH HOA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2311041tsoryl2.jpg",
+            "003_SM TƠ VÀNG ĐÍNH HOA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2311041tsoryl_1.jpg"
+        }
+    }
+]

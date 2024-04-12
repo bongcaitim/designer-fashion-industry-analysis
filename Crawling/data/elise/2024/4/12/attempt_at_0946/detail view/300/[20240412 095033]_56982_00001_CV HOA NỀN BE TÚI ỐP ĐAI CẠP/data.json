@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56982",
+        "general_id":"elise_56982",
+        "sku":"FS2312145BKWOPT",
+        "product_name":"CV HOA NỀN BE TÚI ỐP ĐAI CẠP",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_CV HOA NỀN BE TÚI ỐP ĐAI CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312145bkwopt1.jpg",
+            "002_CV HOA NỀN BE TÚI ỐP ĐAI CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312145bkwopt2.jpg",
+            "003_CV HOA NỀN BE TÚI ỐP ĐAI CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312145bkwopt.jpg",
+            "004_CV HOA NỀN BE TÚI ỐP ĐAI CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312145bkwopt3.jpg"
+        }
+    }
+]

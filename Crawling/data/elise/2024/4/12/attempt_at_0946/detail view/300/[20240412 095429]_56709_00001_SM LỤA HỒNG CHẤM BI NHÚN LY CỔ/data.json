@@ -1,0 +1,21 @@
+[
+    {
+        "product_id":"56709",
+        "general_id":"elise_56709",
+        "sku":"FS2401162TLSIPP",
+        "product_name":"SM LỤA HỒNG CHẤM BI NHÚN LY CỔ",
+        "price":"1.098.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_SM LỤA HỒNG CHẤM BI NHÚN LY CỔ":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2401162tlsipp_1.jpg",
+            "002_SM LỤA HỒNG CHẤM BI NHÚN LY CỔ":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2401162tlsipp2_1.jpg",
+            "003_SM LỤA HỒNG CHẤM BI NHÚN LY CỔ":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2401162tlsipp1_1.jpg"
+        }
+    }
+]

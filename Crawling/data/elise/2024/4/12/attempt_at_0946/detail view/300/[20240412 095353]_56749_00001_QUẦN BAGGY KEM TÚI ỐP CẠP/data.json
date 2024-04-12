@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56749",
+        "general_id":"elise_56749",
+        "sku":"FS2312114BPWOCR",
+        "product_name":"QUẦN BAGGY KEM TÚI ỐP CẠP",
+        "price":"1.198.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_QUẦN BAGGY KEM TÚI ỐP CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312114bpwocr1_1.jpg",
+            "002_QUẦN BAGGY KEM TÚI ỐP CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312114bpwocr2_1.jpg",
+            "003_QUẦN BAGGY KEM TÚI ỐP CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312114bpwocr_1.jpg",
+            "004_QUẦN BAGGY KEM TÚI ỐP CẠP":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312114bpwocr3.jpg"
+        }
+    }
+]

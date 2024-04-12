@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56631",
+        "general_id":"elise_56631",
+        "sku":"FF2309053BPWOGE",
+        "product_name":"QUẦN SUÔNG XƯỚC XANH CỐM CẠP LIỀN",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_QUẦN SUÔNG XƯỚC XANH CỐM CẠP LIỀN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309053bpwoge1.jpg",
+            "002_QUẦN SUÔNG XƯỚC XANH CỐM CẠP LIỀN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309053bpwoge.jpg",
+            "003_QUẦN SUÔNG XƯỚC XANH CỐM CẠP LIỀN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309053bpwoge3.jpg",
+            "004_QUẦN SUÔNG XƯỚC XANH CỐM CẠP LIỀN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2309053bpwoge2.jpg"
+        }
+    }
+]

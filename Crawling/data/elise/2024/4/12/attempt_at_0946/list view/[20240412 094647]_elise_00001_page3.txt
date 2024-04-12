@@ -1,0 +1,1998 @@
+<div class="info-content-wrapper">
+ <div class="products wrapper grid products-grid" id="product-wrapper">
+  <ol class="products list items product-items row">
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/cv-to-hoa-ly-nen-be-fs2312123bkorpt.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="CV TƠ HOA LY NỀN BE" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2312123bkorpt2.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="CV TƠ HOA LY NỀN BE" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312123bkorpt3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312123bkorpt3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/cv-to-hoa-ly-nen-be-fs2312123bkorpt.html">
+        CV TƠ HOA LY NỀN BE
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56462" data-product-id="56462" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1398000" data-price-type="finalPrice" id="old-price-56462-final_price">
+         <span class="price">
+          1.398.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/sm-to-hoa-ly-nen-be-nhun-ly-co-fs2312126tlorpt.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM TƠ HOA LY NỀN BE NHÚN LY CỔ" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2312126tlorpt2.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM TƠ HOA LY NỀN BE NHÚN LY CỔ" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312126tlorpt1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312126tlorpt1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/sm-to-hoa-ly-nen-be-nhun-ly-co-fs2312126tlorpt.html">
+        SM TƠ HOA LY NỀN BE NHÚN LY CỔ
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56457" data-product-id="56457" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1198000" data-price-type="finalPrice" id="old-price-56457-final_price">
+         <span class="price">
+          1.198.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/quan-dai-kem-coi-tui-dinh-logo-fs2312090bpwocr.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="QUẦN DÀI KEM CƠI TÚI ĐÍNH LOGO" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2312090bpwocr2.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="QUẦN DÀI KEM CƠI TÚI ĐÍNH LOGO" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312090bpwocr.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312090bpwocr.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/quan-dai-kem-coi-tui-dinh-logo-fs2312090bpwocr.html">
+        QUẦN DÀI KEM CƠI TÚI ĐÍNH LOGO
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56452" data-product-id="56452" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56452-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/sm-lua-hoa-ly-nen-be-xoan-co-fs2312157tnsipt.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM LỤA HOA LY NỀN BE XOẮN CỔ" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2312157tnsipt.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM LỤA HOA LY NỀN BE XOẮN CỔ" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312157tnsipt2.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312157tnsipt2.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/sm-lua-hoa-ly-nen-be-xoan-co-fs2312157tnsipt.html">
+        SM LỤA HOA LY NỀN BE XOẮN CỔ
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56447" data-product-id="56447" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56447-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/quan-sooc-soi-xanh-bien-phu-vat-fs2312077bswobl.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="QUẦN SOOC SỢI XANH BIỂN PHỦ VẠT" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2312077bswobl.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="QUẦN SOOC SỢI XANH BIỂN PHỦ VẠT" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312077bswobl1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312077bswobl1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/quan-sooc-soi-xanh-bien-phu-vat-fs2312077bswobl.html">
+        QUẦN SOOC SỢI XANH BIỂN PHỦ VẠT
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56442" data-product-id="56442" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56442-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/sm-to-nhan-trang-xep-beo-nguc-fs2401106tsorwh.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM TƠ NHĂN TRẮNG XẾP BÈO NGỰC" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2401106tsorwh.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM TƠ NHĂN TRẮNG XẾP BÈO NGỰC" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2401106tsorwh3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2401106tsorwh3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/sm-to-nhan-trang-xep-beo-nguc-fs2401106tsorwh.html">
+        SM TƠ NHĂN TRẮNG XẾP BÈO NGỰC
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56437" data-product-id="56437" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1198000" data-price-type="finalPrice" id="old-price-56437-final_price">
+         <span class="price">
+          1.198.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/jupe-xanh-la-dinh-hoa-ly-fs2312066bkwoge.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="JUPE XANH LÁ ĐÍNH HOA LY" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2312066bkwoge.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="JUPE XANH LÁ ĐÍNH HOA LY" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312066bkwoge1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312066bkwoge1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/jupe-xanh-la-dinh-hoa-ly-fs2312066bkwoge.html">
+        JUPE XANH LÁ ĐÍNH HOA LY
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56432" data-product-id="56432" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1498000" data-price-type="finalPrice" id="old-price-56432-final_price">
+         <span class="price">
+          1.498.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/sm-to-xanh-xep-beo-nguc-fs2312067tsorge.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM TƠ XANH XẾP BÈO NGỰC" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2312067tsorge.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM TƠ XANH XẾP BÈO NGỰC" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312067tsorge3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312067tsorge3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/sm-to-xanh-xep-beo-nguc-fs2312067tsorge.html">
+        SM TƠ XANH XẾP BÈO NGỰC
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56427" data-product-id="56427" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1198000" data-price-type="finalPrice" id="old-price-56427-final_price">
+         <span class="price">
+          1.198.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/jupe-trang-in-hoa-ly-fs2312079bkwowh.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="JUPE TRẮNG IN HOA LY" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2312079bkwowh.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="JUPE TRẮNG IN HOA LY" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312079bkwowh1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312079bkwowh1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/jupe-trang-in-hoa-ly-fs2312079bkwowh.html">
+        JUPE TRẮNG IN HOA LY
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56422" data-product-id="56422" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1198000" data-price-type="finalPrice" id="old-price-56422-final_price">
+         <span class="price">
+          1.198.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ao-trang-in-hoa-ly-fs2312078tswowh.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ÁO TRẮNG IN HOA LY" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2312078tswowh.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ÁO TRẮNG IN HOA LY" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312078tswowh3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2312078tswowh3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ao-trang-in-hoa-ly-fs2312078tswowh.html">
+        ÁO TRẮNG IN HOA LY
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56417" data-product-id="56417" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56417-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2309062bklabk.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="JUPE LƯỚI LEN ĐEN KẺ Ô XẺ BÊN" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2309062bklabk1.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="JUPE LƯỚI LEN ĐEN KẺ Ô XẺ BÊN" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309062bklabk.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309062bklabk.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2309062bklabk.html">
+        JUPE LƯỚI LEN ĐEN KẺ Ô XẺ BÊN
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56399" data-product-id="56399" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56399-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2306187tlwobk.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM ĐEN CỔ ĐỨC NẮP TÚI" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2306187tlwobk4.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM ĐEN CỔ ĐỨC NẮP TÚI" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2306187tlwobk3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2306187tlwobk3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2306187tlwobk.html">
+        SM ĐEN CỔ ĐỨC NẮP TÚI
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56394" data-product-id="56394" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56394-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2309033bpdege.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="QUẦN JEANS XANH MATCHA ỐNG SUÔNG" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2309033bpdege.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="QUẦN JEANS XANH MATCHA ỐNG SUÔNG" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309033bpdege1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309033bpdege1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2309033bpdege.html">
+        QUẦN JEANS XANH MATCHA ỐNG SUÔNG
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56389" data-product-id="56389" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="998000" data-price-type="finalPrice" id="old-price-56389-final_price">
+         <span class="price">
+          998.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2311088tvlacr.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="GILE REN HOA KEM TÚI ỐP" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2311088tvlacr2.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="GILE REN HOA KEM TÚI ỐP" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2311088tvlacr3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2311088tvlacr3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2311088tvlacr.html">
+        GILE REN HOA KEM TÚI ỐP
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56384" data-product-id="56384" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1298000" data-price-type="finalPrice" id="old-price-56384-final_price">
+         <span class="price">
+          1.298.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/fs2311092bkwokk.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="CHÂN VÁY KAKI BE XÒE BOM GẤU" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2311092bkwokk1.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="CHÂN VÁY KAKI BE XÒE BOM GẤU" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2311092bkwokk2.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2311092bkwokk2.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/fs2311092bkwokk.html">
+        CHÂN VÁY KAKI BE XÒE BOM GẤU
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56379" data-product-id="56379" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1298000" data-price-type="finalPrice" id="old-price-56379-final_price">
+         <span class="price">
+          1.298.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2307219tnsibk.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ÁO 2 DÂY LỤA ĐEN DÂY XÍCH CỔ ĐỔ" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2307219tnsibk5.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ÁO 2 DÂY LỤA ĐEN DÂY XÍCH CỔ ĐỔ" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307219tnsibk2.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307219tnsibk2.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2307219tnsibk.html">
+        ÁO 2 DÂY LỤA ĐEN DÂY XÍCH CỔ ĐỔ
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56374" data-product-id="56374" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="898000" data-price-type="finalPrice" id="old-price-56374-final_price">
+         <span class="price">
+          898.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2309029bpdepl.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="QUẦN JEANS HỌA TIẾT SẦN" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2309029bpdepl.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="QUẦN JEANS HỌA TIẾT SẦN" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309029bpdepl1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309029bpdepl1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2309029bpdepl.html">
+        QUẦN JEANS HỌA TIẾT SẦN
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56369" data-product-id="56369" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56369-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2310057tllapb.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SƠ MI REN ĐEN CỔ ĐỨC" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2310057tllapb4.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SƠ MI REN ĐEN CỔ ĐỨC" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2310057tllapb5.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2310057tllapb5.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2310057tllapb.html">
+        SƠ MI REN ĐEN CỔ ĐỨC
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56364" data-product-id="56364" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1198000" data-price-type="finalPrice" id="old-price-56364-final_price">
+         <span class="price">
+          1.198.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2309044diwobl.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ĐẦM CỔ ĐỨC XANH TAY LỬNG" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2309044diwobl1.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ĐẦM CỔ ĐỨC XANH TAY LỬNG" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309044diwobl.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309044diwobl.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2309044diwobl.html">
+        ĐẦM CỔ ĐỨC XANH TAY LỬNG
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56359" data-product-id="56359" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="2098000" data-price-type="finalPrice" id="old-price-56359-final_price">
+         <span class="price">
+          2.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/fs2309045tswobe.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM SẠN BE XẾP GẤU LY CHÉO" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2309045tswobe2.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM SẠN BE XẾP GẤU LY CHÉO" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2309045tswobe3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2309045tswobe3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/fs2309045tswobe.html">
+        SM SẠN BE XẾP GẤU LY CHÉO
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56354" data-product-id="56354" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1198000" data-price-type="finalPrice" id="old-price-56354-final_price">
+         <span class="price">
+          1.198.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/fs2309046bpwobe.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="QUẦN SUÔNG SẠN BE LY GIỮA KHÓA SAU" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2309046bpwobe.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="QUẦN SUÔNG SẠN BE LY GIỮA KHÓA SAU" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2309046bpwobe4.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2309046bpwobe4.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/fs2309046bpwobe.html">
+        QUẦN SUÔNG SẠN BE LY GIỮA KHÓA SAU
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56349" data-product-id="56349" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1298000" data-price-type="finalPrice" id="old-price-56349-final_price">
+         <span class="price">
+          1.298.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2307029bpdebl.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="QUẦN JEANS KT XANH ỐNG LOE" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2307029bpdebl.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="QUẦN JEANS KT XANH ỐNG LOE" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307029bpdebl1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307029bpdebl1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2307029bpdebl.html">
+        QUẦN JEANS KT XANH ỐNG LOE
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56344" data-product-id="56344" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1398000" data-price-type="finalPrice" id="old-price-56344-final_price">
+         <span class="price">
+          1.398.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2307140tldebl.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM JEANS XANH CỔ ĐỨC DIỄU CHỈ" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2307140tldebl3.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM JEANS XANH CỔ ĐỨC DIỄU CHỈ" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307140tldebl1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307140tldebl1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2307140tldebl.html">
+        SM JEANS XANH CỔ ĐỨC DIỄU CHỈ
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56339" data-product-id="56339" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1398000" data-price-type="finalPrice" id="old-price-56339-final_price">
+         <span class="price">
+          1.398.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2309037bkdebl.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="CHÂN VÁY JEANS TÚI ỐP CÚC TRƯỚC" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2309037bkdebl.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="CHÂN VÁY JEANS TÚI ỐP CÚC TRƯỚC" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309037bkdebl2.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309037bkdebl2.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2309037bkdebl.html">
+        CHÂN VÁY JEANS TÚI ỐP CÚC TRƯỚC
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56334" data-product-id="56334" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1198000" data-price-type="finalPrice" id="old-price-56334-final_price">
+         <span class="price">
+          1.198.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2307332tlsibl.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM LỤA XANH HT HOA LOGO CỔ TÀU" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2307332tlsibl4.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM LỤA XANH HT HOA LOGO CỔ TÀU" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307332tlsibl3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307332tlsibl3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2307332tlsibl.html">
+        SM LỤA XANH HT HOA LOGO CỔ TÀU
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56329" data-product-id="56329" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1198000" data-price-type="finalPrice" id="old-price-56329-final_price">
+         <span class="price">
+          1.198.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2309031bkdebl.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="CHÂN VÁY JEANS ĐUÔI CÁ TÚI TRƯỚC" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2309031bkdebl.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="CHÂN VÁY JEANS ĐUÔI CÁ TÚI TRƯỚC" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309031bkdebl1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309031bkdebl1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2309031bkdebl.html">
+        CHÂN VÁY JEANS ĐUÔI CÁ TÚI TRƯỚC
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56324" data-product-id="56324" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1198000" data-price-type="finalPrice" id="old-price-56324-final_price">
+         <span class="price">
+          1.198.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2308141tlorpt.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM TƠ TRẮNG HT XANH DÂY CỔ THÊU CHỮ" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2308141tlorpt.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM TƠ TRẮNG HT XANH DÂY CỔ THÊU CHỮ" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308141tlorpt3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308141tlorpt3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2308141tlorpt.html">
+        SM TƠ TRẮNG HT XANH DÂY CỔ THÊU CHỮ
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56319" data-product-id="56319" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1198000" data-price-type="finalPrice" id="old-price-56319-final_price">
+         <span class="price">
+          1.198.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2309036bpdebl.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="QUẦN JEANS SUÔNG CÁ CẠP" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2309036bpdebl1.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="QUẦN JEANS SUÔNG CÁ CẠP" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309036bpdebl3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309036bpdebl3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2309036bpdebl.html">
+        QUẦN JEANS SUÔNG CÁ CẠP
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56314" data-product-id="56314" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56314-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2308139tvlabk.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="GILE REN HOA ĐEN TÚI ỐP" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2308139tvlabk3.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="GILE REN HOA ĐEN TÚI ỐP" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308139tvlabk.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308139tvlabk.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2308139tvlabk.html">
+        GILE REN HOA ĐEN TÚI ỐP
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56309" data-product-id="56309" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1298000" data-price-type="finalPrice" id="old-price-56309-final_price">
+         <span class="price">
+          1.298.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/quan-jeans-xam-gau-gap-ff2308035bpdegr.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="QUẦN JEANS XÁM GẤU GẬP" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2308035bpdegr.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="QUẦN JEANS XÁM GẤU GẬP" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308035bpdegr5.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308035bpdegr5.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/quan-jeans-xam-gau-gap-ff2308035bpdegr.html">
+        QUẦN JEANS XÁM GẤU GẬP
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56304" data-product-id="56304" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56304-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/vest-ren-trang-ht-qua-tram-ff2306275tulapw.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="VEST REN TRẮNG HT QUẢ TRÁM" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2306275tulapw.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="VEST REN TRẮNG HT QUẢ TRÁM" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2306275tulapw3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2306275tulapw3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/vest-ren-trang-ht-qua-tram-ff2306275tulapw.html">
+        VEST REN TRẮNG HT QUẢ TRÁM
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56299" data-product-id="56299" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="2098000" data-price-type="finalPrice" id="old-price-56299-final_price">
+         <span class="price">
+          2.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ao-2-day-ren-trang-ht-qua-tram-ff2306276tnlapw.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ÁO 2 DÂY REN TRẮNG HT QUẢ TRÁM" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2306276tnlapw5.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ÁO 2 DÂY REN TRẮNG HT QUẢ TRÁM" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2306276tnlapw4.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2306276tnlapw4.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ao-2-day-ren-trang-ht-qua-tram-ff2306276tnlapw.html">
+        ÁO 2 DÂY REN TRẮNG HT QUẢ TRÁM
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56294" data-product-id="56294" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="898000" data-price-type="finalPrice" id="old-price-56294-final_price">
+         <span class="price">
+          898.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/dam-ren-hoa-tim-hoa-phoi-lua-ff2306359dilanv.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ĐẦM REN HOA TÍM HOA PHỐI LỤA" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2306359dilanv.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ĐẦM REN HOA TÍM HOA PHỐI LỤA" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2306359dilanv4.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2306359dilanv4.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/dam-ren-hoa-tim-hoa-phoi-lua-ff2306359dilanv.html">
+        ĐẦM REN HOA TÍM HOA PHỐI LỤA
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56289" data-product-id="56289" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="2498000" data-price-type="finalPrice" id="old-price-56289-final_price">
+         <span class="price">
+          2.498.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/dam-to-ong-tim-than-day-co-ht-ff2307198diornv.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ĐẦM TƠ ÓNG TÍM THAN DÂY CỔ HT" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2307198diornv.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ĐẦM TƠ ÓNG TÍM THAN DÂY CỔ HT" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307198diornv5.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307198diornv5.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/dam-to-ong-tim-than-day-co-ht-ff2307198diornv.html">
+        ĐẦM TƠ ÓNG TÍM THAN DÂY CỔ HT
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56284" data-product-id="56284" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="2098000" data-price-type="finalPrice" id="old-price-56284-final_price">
+         <span class="price">
+          2.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/chan-vay-jeans-ha-eo-xep-ly-ff2309038bkdebl.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="CHÂN VÁY JEANS HẠ EO XẾP LY" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2309038bkdebl.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="CHÂN VÁY JEANS HẠ EO XẾP LY" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309038bkdebl2.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309038bkdebl2.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/chan-vay-jeans-ha-eo-xep-ly-ff2309038bkdebl.html">
+        CHÂN VÁY JEANS HẠ EO XẾP LY
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56279" data-product-id="56279" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1198000" data-price-type="finalPrice" id="old-price-56279-final_price">
+         <span class="price">
+          1.198.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/sm-sat-nach-to-trang-ht-xanh-day-co-ff2307357tnorpt.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM SÁT NÁCH TƠ TRẮNG HT XANH DÂY CỔ" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2307357tnorpt.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM SÁT NÁCH TƠ TRẮNG HT XANH DÂY CỔ" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307357tnorpt4.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307357tnorpt4.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/sm-sat-nach-to-trang-ht-xanh-day-co-ff2307357tnorpt.html">
+        SM SÁT NÁCH TƠ TRẮNG HT XANH DÂY CỔ
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56274" data-product-id="56274" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56274-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/chan-vay-soi-xanh-dap-ly-dai-cap-ff2308138bkwobl.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="CHÂN VÁY SỢI XANH DẬP LY ĐAI CẠP" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2308138bkwobl5.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="CHÂN VÁY SỢI XANH DẬP LY ĐAI CẠP" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308138bkwobl.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308138bkwobl.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/chan-vay-soi-xanh-dap-ly-dai-cap-ff2308138bkwobl.html">
+        CHÂN VÁY SỢI XANH DẬP LY ĐAI CẠP
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56269" data-product-id="56269" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1298000" data-price-type="finalPrice" id="old-price-56269-final_price">
+         <span class="price">
+          1.298.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ao-sat-nach-xanh-tui-nguc-theu-logo-ff2308137tswobl.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ÁO SÁT NÁCH XANH TÚI NGỰC THÊU LOGO" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2308137tswobl2.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ÁO SÁT NÁCH XANH TÚI NGỰC THÊU LOGO" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308137tswobl3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308137tswobl3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ao-sat-nach-xanh-tui-nguc-theu-logo-ff2308137tswobl.html">
+        ÁO SÁT NÁCH XANH TÚI NGỰC THÊU LOGO
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56264" data-product-id="56264" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56264-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2308013bpwoor.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="QUẦN SUÔNG CAM ĐẤT LY GIỮA ĐAI CẠP" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2308013bpwoor2.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="QUẦN SUÔNG CAM ĐẤT LY GIỮA ĐAI CẠP" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308013bpwoor1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308013bpwoor1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2308013bpwoor.html">
+        QUẦN SUÔNG CAM ĐẤT LY GIỮA ĐAI CẠP
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56258" data-product-id="56258" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1298000" data-price-type="finalPrice" id="old-price-56258-final_price">
+         <span class="price">
+          1.298.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/ff2308012tlwoor.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM CAM ĐẤT CỔ ĐỨC TRANG TRÍ CÚC TAY" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2308012tlwoor.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM CAM ĐẤT CỔ ĐỨC TRANG TRÍ CÚC TAY" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308012tlwoor1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308012tlwoor1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/ff2308012tlwoor.html">
+        SM CAM ĐẤT CỔ ĐỨC TRANG TRÍ CÚC TAY
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56253" data-product-id="56253" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56253-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/dam-om-den-nguc-dinh-hoa-cuom-ff2309001diwobk.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ĐẦM ÔM ĐEN NGỰC ĐÍNH HOA CƯỜM" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2309001diwobk.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ĐẦM ÔM ĐEN NGỰC ĐÍNH HOA CƯỜM" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309001diwobk3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309001diwobk3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/dam-om-den-nguc-dinh-hoa-cuom-ff2309001diwobk.html">
+        ĐẦM ÔM ĐEN NGỰC ĐÍNH HOA CƯỜM
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56248" data-product-id="56248" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="2298000" data-price-type="finalPrice" id="old-price-56248-final_price">
+         <span class="price">
+          2.298.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/dam-trang-voan-ke-xep-ly-duoi-fs2311084diwowh.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ĐẦM TRẮNG VOAN KẺ XẾP LY DƯỚI" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2311084diwowh2.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ĐẦM TRẮNG VOAN KẺ XẾP LY DƯỚI" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2311084diwowh3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2311084diwowh3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/dam-trang-voan-ke-xep-ly-duoi-fs2311084diwowh.html">
+        ĐẦM TRẮNG VOAN KẺ XẾP LY DƯỚI
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56243" data-product-id="56243" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="2298000" data-price-type="finalPrice" id="old-price-56243-final_price">
+         <span class="price">
+          2.298.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/cv-xop-den-van-cheo-dai-cap-ff2307202bkwobk.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="CV XỐP ĐEN VÂN CHÉO ĐAI CẠP" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2307202bkwobk.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="CV XỐP ĐEN VÂN CHÉO ĐAI CẠP" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307202bkwobk1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307202bkwobk1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/cv-xop-den-van-cheo-dai-cap-ff2307202bkwobk.html">
+        CV XỐP ĐEN VÂN CHÉO ĐAI CẠP
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56238" data-product-id="56238" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1298000" data-price-type="finalPrice" id="old-price-56238-final_price">
+         <span class="price">
+          1.298.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/sm-to-van-xanh-com-co-vien-beo-ff2307050tlorge.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM TƠ VÂN XANH CỐM CỔ VIỀN BÈO" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2307050tlorge3.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM TƠ VÂN XANH CỐM CỔ VIỀN BÈO" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307050tlorge.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307050tlorge.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/sm-to-van-xanh-com-co-vien-beo-ff2307050tlorge.html">
+        SM TƠ VÂN XANH CỐM CỔ VIỀN BÈO
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56233" data-product-id="56233" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1198000" data-price-type="finalPrice" id="old-price-56233-final_price">
+         <span class="price">
+          1.198.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/sm-to-vang-no-co-beo-fs2311074tloryl.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM TƠ VÀNG NƠ CỔ BÈO" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2311074tloryl.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM TƠ VÀNG NƠ CỔ BÈO" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2311074tloryl3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2311074tloryl3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/sm-to-vang-no-co-beo-fs2311074tloryl.html">
+        SM TƠ VÀNG NƠ CỔ BÈO
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56223" data-product-id="56223" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56223-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/sm-lua-trang-van-cheo-tay-phong-fs2311080tlsiwh.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM LỤA TRẮNG VÂN CHÉO TAY PHỒNG" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2311080tlsiwh3.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM LỤA TRẮNG VÂN CHÉO TAY PHỒNG" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2311080tlsiwh2.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2311080tlsiwh2.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/sm-lua-trang-van-cheo-tay-phong-fs2311080tlsiwh.html">
+        SM LỤA TRẮNG VÂN CHÉO TAY PHỒNG
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56218" data-product-id="56218" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56218-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/quan-suong-den-gan-giua-ff2306024bpwobk.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="QUẦN SUÔNG ĐEN GÂN GIỮA" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2306024bpwobk2.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="QUẦN SUÔNG ĐEN GÂN GIỮA" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2306024bpwobk1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2306024bpwobk1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/quan-suong-den-gan-giua-ff2306024bpwobk.html">
+        QUẦN SUÔNG ĐEN GÂN GIỮA
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56213" data-product-id="56213" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1298000" data-price-type="finalPrice" id="old-price-56213-final_price">
+         <span class="price">
+          1.298.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/dam-kem-phoi-to-dinh-no-co-ff2308171diwocr.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ĐẦM KEM PHỐI TƠ ĐÍNH NƠ CỔ" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2308171diwocr.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ĐẦM KEM PHỐI TƠ ĐÍNH NƠ CỔ" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308171diwocr1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308171diwocr1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/dam-kem-phoi-to-dinh-no-co-ff2308171diwocr.html">
+        ĐẦM KEM PHỐI TƠ ĐÍNH NƠ CỔ
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56208" data-product-id="56208" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="2098000" data-price-type="finalPrice" id="old-price-56208-final_price">
+         <span class="price">
+          2.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/sm-san-trang-can-day-ren-ff2307134tlwowh.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM SẠN TRẮNG CAN DÂY REN" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2307134tlwowh3.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM SẠN TRẮNG CAN DÂY REN" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307134tlwowh1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2307134tlwowh1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/sm-san-trang-can-day-ren-ff2307134tlwowh.html">
+        SM SẠN TRẮNG CAN DÂY REN
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56203" data-product-id="56203" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1298000" data-price-type="finalPrice" id="old-price-56203-final_price">
+         <span class="price">
+          1.298.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/sm-to-xanh-com-co-v-xep-ly-fs2305296tsorge.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="SM TƠ XANH CỐM CỔ V XẾP LY" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2305296tsorge3.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="SM TƠ XANH CỐM CỔ V XẾP LY" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2305296tsorge2.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2305296tsorge2.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/sm-to-xanh-com-co-v-xep-ly-fs2305296tsorge.html">
+        SM TƠ XANH CỐM CỔ V XẾP LY
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56198" data-product-id="56198" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56198-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/jupe-but-chi-den-tui-cheo-fs2311091bkwobk.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="JUPE BÚT CHỈ ĐEN TÚI CHÉO" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/s/fs2311091bkwobk1.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="JUPE BÚT CHỈ ĐEN TÚI CHÉO" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2311091bkwobk3.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2311091bkwobk3.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/jupe-but-chi-den-tui-cheo-fs2311091bkwobk.html">
+        JUPE BÚT CHỈ ĐEN TÚI CHÉO
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56193" data-product-id="56193" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1098000" data-price-type="finalPrice" id="old-price-56193-final_price">
+         <span class="price">
+          1.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/jupe-nau-beo-eo-xe-ben-ff2309048bkwobr.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="JUPE NÂU BÈO EO XẺ BÊN" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2309048bkwobr1.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="JUPE NÂU BÈO EO XẺ BÊN" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309048bkwobr2.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2309048bkwobr2.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/jupe-nau-beo-eo-xe-ben-ff2309048bkwobr.html">
+        JUPE NÂU BÈO EO XẺ BÊN
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56188" data-product-id="56188" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="1398000" data-price-type="finalPrice" id="old-price-56188-final_price">
+         <span class="price">
+          1.398.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/dam-to-den-chun-eo-vien-ren-pk-trang-ff2304127diwobk.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ĐẦM TƠ ĐEN CHUN EO VIỀN REN PK TRẮNG" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2304127diwobk.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ĐẦM TƠ ĐEN CHUN EO VIỀN REN PK TRẮNG" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2304127diwobk1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2304127diwobk1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/dam-to-den-chun-eo-vien-ren-pk-trang-ff2304127diwobk.html">
+        ĐẦM TƠ ĐEN CHUN EO VIỀN REN PK TRẮNG
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56183" data-product-id="56183" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="2298000" data-price-type="finalPrice" id="old-price-56183-final_price">
+         <span class="price">
+          2.298.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/dam-den-co-dinh-day-xich-ff2308082dmwobk.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ĐẦM ĐEN CỔ ĐÍNH DÂY XÍCH" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2308082dmwobk.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ĐẦM ĐEN CỔ ĐÍNH DÂY XÍCH" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308082dmwobk2.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308082dmwobk2.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/dam-den-co-dinh-day-xich-ff2308082dmwobk.html">
+        ĐẦM ĐEN CỔ ĐÍNH DÂY XÍCH
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56178" data-product-id="56178" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="2098000" data-price-type="finalPrice" id="old-price-56178-final_price">
+         <span class="price">
+          2.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/dam-den-vai-chuom-vien-ghi-ff2308217diwobk.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ĐẦM ĐEN VAI CHƯỜM VIỀN GHI" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2308217diwobk.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ĐẦM ĐEN VAI CHƯỜM VIỀN GHI" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308217diwobk1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308217diwobk1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/dam-den-vai-chuom-vien-ghi-ff2308217diwobk.html">
+        ĐẦM ĐEN VAI CHƯỜM VIỀN GHI
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56173" data-product-id="56173" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="2098000" data-price-type="finalPrice" id="old-price-56173-final_price">
+         <span class="price">
+          2.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/dam-trang-co-v-tay-ren-hoa-chum-ff2308133dmwowh.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ĐẦM TRẮNG CỔ V TAY REN HOA CHÙM" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2308133dmwowh.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ĐẦM TRẮNG CỔ V TAY REN HOA CHÙM" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308133dmwowh1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308133dmwowh1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/dam-trang-co-v-tay-ren-hoa-chum-ff2308133dmwowh.html">
+        ĐẦM TRẮNG CỔ V TAY REN HOA CHÙM
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56168" data-product-id="56168" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="2098000" data-price-type="finalPrice" id="old-price-56168-final_price">
+         <span class="price">
+          2.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/dam-suong-van-xanh-com-kep-vien-co-kt-ff2308177diwoge.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ĐẦM SUÔNG VÂN XANH CỐM KẸP VIỀN CỔ KT" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2308177diwoge.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ĐẦM SUÔNG VÂN XANH CỐM KẸP VIỀN CỔ KT" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308177diwoge2.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308177diwoge2.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/dam-suong-van-xanh-com-kep-vien-co-kt-ff2308177diwoge.html">
+        ĐẦM SUÔNG VÂN XANH CỐM KẸP VIỀN CỔ KT
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56163" data-product-id="56163" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="2098000" data-price-type="finalPrice" id="old-price-56163-final_price">
+         <span class="price">
+          2.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/dam-van-cam-co-vuong-tay-lo-ff2308147diwoor.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ĐẦM VÂN CAM CỔ VUÔNG TAY LỠ" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2308147diwoor.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ĐẦM VÂN CAM CỔ VUÔNG TAY LỠ" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308147diwoor2.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308147diwoor2.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/dam-van-cam-co-vuong-tay-lo-ff2308147diwoor.html">
+        ĐẦM VÂN CAM CỔ VUÔNG TAY LỠ
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56158" data-product-id="56158" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="2298000" data-price-type="finalPrice" id="old-price-56158-final_price">
+         <span class="price">
+          2.298.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/dam-cam-co-vest-chan-dap-ly-ff2308182diwoor.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ĐẦM CAM CỔ VEST CHÂN DẬP LY" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2308182diwoor.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ĐẦM CAM CỔ VEST CHÂN DẬP LY" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308182diwoor1.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308182diwoor1.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/dam-cam-co-vest-chan-dap-ly-ff2308182diwoor.html">
+        ĐẦM CAM CỔ VEST CHÂN DẬP LY
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56153" data-product-id="56153" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="2298000" data-price-type="finalPrice" id="old-price-56153-final_price">
+         <span class="price">
+          2.298.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+   <li class="item product product-item-info product-item col-12 col-xs-6 col-md-4 col-lg-3">
+    <div class="item-content-wrapper">
+     <div class="product-top">
+      <a class="product photo product-item-photo" href="https://elise.vn/dam-cam-tim-xe-gau-chong-lech-ff2308027dmwopk.html" tabindex="-1">
+       <div class="item-xmedia">
+        <div class="product-image-wrapper" style="padding-bottom: 150%;">
+         <div class="image-thumbnail product-image-hover">
+          <img alt="ĐẦM CAM TÍM XẺ GẤU CHỒNG LỆCH" class="img-responsive product-image-photo img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/f677d7e3a5087b6a18a5b1f320b78594/f/f/ff2308027dmwopk.jpg" src="https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/MGS_Mpanel/images/blank.png"/>
+          <img alt="ĐẦM CAM TÍM XẺ GẤU CHỒNG LỆCH" class="img-responsive product-image-photo-hover img-thumbnail lazy" data-src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308027dmwopk2.jpg" src="https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/f/ff2308027dmwopk2.jpg"/>
+         </div>
+        </div>
+       </div>
+      </a>
+     </div>
+     <div class="product details product-item-details">
+      <h5 class="product name product-item-name">
+       <a class="product-item-link" href="https://elise.vn/dam-cam-tim-xe-gau-chong-lech-ff2308027dmwopk.html">
+        ĐẦM CAM TÍM XẺ GẤU CHỒNG LỆCH
+       </a>
+      </h5>
+      <div class="price-box price-final_price" data-price-box="product-id-56143" data-product-id="56143" data-role="priceBox">
+       <span class="price-container price-final_price tax weee">
+        <span class="price-wrapper" data-price-amount="2098000" data-price-type="finalPrice" id="old-price-56143-final_price">
+         <span class="price">
+          2.098.000 VND
+         </span>
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </li>
+  </ol>
+ </div>
+ <div class="pager">
+  <p class="toolbar-amount">
+   <span class="toolbar-number">
+    Mục 121 để 180 323 tất cả
+   </span>
+  </p>
+  <div class="pages list-inline">
+   <ul aria-labelledby="paging-label" class="pagination">
+    <li class="item pages-item-previous">
+     <a class="action previous" href="https://elise.vn/thoi-trang-nu?pnpmls=2" title="Trước">
+      <span>
+       Trước
+      </span>
+     </a>
+    </li>
+    <li class="item">
+     <a class="page" href="https://elise.vn/thoi-trang-nu?pnpmls=1">
+      <span>
+       1
+      </span>
+     </a>
+    </li>
+    <li class="item">
+     <a class="page" href="https://elise.vn/thoi-trang-nu?pnpmls=2">
+      <span>
+       2
+      </span>
+     </a>
+    </li>
+    <li class="item current">
+     <a class="page" href="#">
+      <span>
+       3
+      </span>
+     </a>
+    </li>
+    <li class="item">
+     <a class="page" href="https://elise.vn/thoi-trang-nu?pnpmls=4">
+      <span>
+       4
+      </span>
+     </a>
+    </li>
+    <li class="item">
+     <a class="page" href="https://elise.vn/thoi-trang-nu?pnpmls=5">
+      <span>
+       5
+      </span>
+     </a>
+    </li>
+    <li class="item">
+     <a class="page last" href="https://elise.vn/thoi-trang-nu?pnpmls=6">
+      <span>
+       6
+      </span>
+     </a>
+    </li>
+    <li class="item pages-item-next">
+     <a class="action next" href="https://elise.vn/thoi-trang-nu?pnpmls=4" title="Tiếp theo">
+      <span>
+       Tiếp theo
+      </span>
+     </a>
+    </li>
+   </ul>
+  </div>
+ </div>
+ <style>
+  .pager .toolbar-amount {
+        display: none;
+    }
+ </style>
+</div>

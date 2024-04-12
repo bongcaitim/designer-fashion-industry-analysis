@@ -1,0 +1,893 @@
+<div class="column main col-lg-12 col-md-12 col-sm-12 col-xs-12">
+ <div class="product-info-main">
+  <div class="prices-tier-container">
+   <!-- -->
+  </div>
+ </div>
+ <input name="form_key" type="hidden" value="VTr5Z92C5lbeMuWz"/>
+ <div data-bind="scope:'authenticationPopup'" id="authenticationPopup" style="display: none;">
+  <script>
+   window.authenticationPopup = {"autocomplete":"off","customerRegisterUrl":"https:\/\/elise.vn\/customer\/account\/create\/","customerForgotPasswordUrl":"https:\/\/elise.vn\/customer\/account\/forgotpassword\/","baseUrl":"https:\/\/elise.vn\/"};
+  </script>
+  <!-- ko template: getTemplate() -->
+  <!-- /ko -->
+  <script type="text/x-magento-init">
+   {
+            "#authenticationPopup": {
+                "Magento_Ui/js/core/app": {"components":{"authenticationPopup":{"component":"Magento_Customer\/js\/view\/authentication-popup","children":{"messages":{"component":"Magento_Ui\/js\/view\/messages","displayArea":"messages"},"captcha":{"component":"Magento_Captcha\/js\/view\/checkout\/loginCaptcha","displayArea":"additional-login-form-fields","formId":"user_login","configSource":"checkout"},"amazon-button":{"component":"Amazon_Login\/js\/view\/login-button-wrapper","sortOrder":"0","displayArea":"additional-login-form-fields","config":{"tooltip":"Securely login into our website using your existing Amazon details.","componentDisabled":true}}}}}}            },
+            "*": {
+                "Magento_Ui/js/block-loader": "https\u003A\u002F\u002Felise.vn\u002Fstatic\u002Fversion1705548662\u002Ffrontend\u002FMagenest\u002Felise\u002Fvi_VN\u002Fimages\u002Floader\u002D1.gif"
+            }
+        }
+  </script>
+ </div>
+ <script type="text/x-magento-init">
+  {
+        "*": {
+            "Magento_Customer/js/section-config": {
+                "sections": {"stores\/store\/switch":["*"],"stores\/store\/switchrequest":["*"],"directory\/currency\/switch":["*"],"*":["messages"],"customer\/account\/logout":["*","recently_viewed_product","recently_compared_product","persistent","cart"],"customer\/account\/loginpost":["*","cart"],"customer\/account\/createpost":["*","cart"],"customer\/account\/editpost":["*"],"customer\/ajax\/login":["checkout-data","cart","captcha"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"checkout\/cart\/add":["cart","directory-data","bss-fbpixel-atc","gtm"],"checkout\/cart\/delete":["cart","gtm"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items"],"checkout\/sidebar\/removeitem":["cart","gtm"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","last-ordered-items","instant-purchase","checkout-data","gtm"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart","checkout-data","gtm"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data","instant-purchase"],"customer\/address\/*":["instant-purchase"],"customer\/account\/*":["instant-purchase"],"vault\/cards\/deleteaction":["instant-purchase"],"multishipping\/checkout\/overviewpost":["cart"],"authorizenet\/directpost_payment\/place":["cart","checkout-data"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"paypal\/express\/onauthorization":["cart","checkout-data"],"persistent\/index\/unsetcookie":["persistent"],"review\/product\/post":["review"],"braintree\/paypal\/placeorder":["cart","checkout-data"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"amasty_promo\/cart\/add":["cart"],"newsletter\/subscriber\/new":["bss-fbpixel-subscribe"],"ajaxcart\/index\/updatecart":["cart"],"guestwishlist\/index\/add":["guest_wishlist"],"guestwishlist\/index\/index":["guest_wishlist","cart"],"guestwishlist\/index\/remove":["guest_wishlist"],"guestwishlist\/index\/fromcart":["guest_wishlist"],"guestwishlist\/index\/all":["guest_wishlist"],"mgs_quickview\/index\/updatecart":["cart"],"sociallogin\/checklogin\/index":["cart"],"sociallogin\/ajaxgettype\/index":["cart"],"sociallogin\/amazon\/connect":["cart"],"sociallogin\/facebook\/connect":["cart"],"sociallogin\/google\/connect":["cart"],"sociallogin\/instagram\/connect":["cart"],"sociallogin\/line\/connect":["cart"],"sociallogin\/linkedin\/connect":["cart"],"sociallogin\/pinterest\/connect":["cart"],"sociallogin\/reddit\/connect":["cart"],"sociallogin\/twitter\/connect":["cart"],"checkout\/cart\/configure":["gtm"],"rest\/*\/v1\/guest-carts\/*\/shipping-information":["gtm"],"rest\/*\/v1\/carts\/*\/shipping-information":["gtm"]},
+                "clientSideSections": ["checkout-data","cart-data","chatData"],
+                "baseUrls": ["https:\/\/elise.vn\/"],
+                "sectionNames": ["messages","customer","compare-products","last-ordered-items","cart","directory-data","captcha","instant-purchase","persistent","review","wishlist","bss-fbpixel-atc","bss-fbpixel-subscribe","chatData","guest_wishlist","customer-vote","gtm","recently_viewed_product","recently_compared_product","product_data_storage","paypal-billing-agreement"]            }
+        }
+    }
+ </script>
+ <script type="text/x-magento-init">
+  {
+        "*": {
+            "Magento_Customer/js/customer-data": {
+                "sectionLoadUrl": "https\u003A\u002F\u002Felise.vn\u002Fcustomer\u002Fsection\u002Fload\u002F",
+                "expirableSectionLifetime": 1800,
+                "expirableSectionNames": ["cart","persistent"],
+                "cookieLifeTime": "3600",
+                "updateSessionUrl": "https\u003A\u002F\u002Felise.vn\u002Fcustomer\u002Faccount\u002FupdateSession\u002F"
+            }
+        }
+    }
+ </script>
+ <script type="text/x-magento-init">
+  {
+        "*": {
+            "Magento_Customer/js/invalidation-processor": {
+                "invalidationRules": {
+                    "website-rule": {
+                        "Magento_Customer/js/invalidation-rules/website-rule": {
+                            "scopeConfig": {
+                                "websiteId": "1"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+ </script>
+ <script type="text/x-magento-init">
+  {
+        "body": {
+            "pageCache": {"url":"https:\/\/elise.vn\/page_cache\/block\/render\/id\/56869\/","handles":["default","catalog_product_view","catalog_product_view_id_56869","catalog_product_view_sku_FS2312022TSORPK","catalog_product_view_type_configurable","instant_search"],"originalRequest":{"route":"catalog","controller":"product","action":"view","uri":"\/sm-to-tim-dam-tay-phong-theu-hoa-fs2312022tsorpk.html"},"versionCookieName":"private_content_version"}        }
+    }
+ </script>
+ <script type="text/x-magento-init">
+  {
+        "body": {
+            "requireCookie": {"noCookieUrl":"https:\/\/elise.vn\/cookie\/index\/noCookies\/","triggers":[".action.towishlist"],"isRedirectCmsPage":true}        }
+    }
+ </script>
+ <script>
+  require(['jquery'],
+        function($){
+            $(document).ready(function() {
+                $('.magenest-popup-action').on('mouseout', function() {
+                    $(this).css('background-color', '');
+                });
+                $('.magenest-popup-action').on('mouseover', function() {
+                    $(this).css('background-color', '');
+                });
+                 $('.magenest-popup-action').on('mouseout', function() {
+                    $(this).css('color', '');
+                });
+                $('.magenest-popup-action').on('mouseover', function() {
+                    $(this).css('color', '');
+                });
+            });
+        });
+ </script>
+ <div data-bind="scope:'modal_content'" id="modal_content" style="display: none">
+  <script>
+   window.modal_content = {"baseUrl":"https:\/\/elise.vn\/","isButtonEnabledCheckout":true,"isEnabledPopup":true,"isEnabledInCreateAccount":true,"TwitterUrl":"https:\/\/elise.vn\/sociallogin\/twitter\/request\/","isTwitterEnabled":true,"FacebookUrl":"https:\/\/graph.facebook.com\/oauth\/authorize?client_id=2533748520214105&redirect_uri=https%3A%2F%2Felise.vn%2Fsociallogin%2Ffacebook%2Fconnect&scope=public_profile%2Cemail","isFacebookEnabled":true,"GoogleUrl":"https:\/\/accounts.google.com\/o\/oauth2\/auth?response_type=code&redirect_uri=https%3A%2F%2Felise.vn%2Fsociallogin%2Fgoogle%2Fconnect%2F&client_id=699638905084-ipgl7bp8hrlscrqro90githn4tqs8tsb.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&access_type=offline&approval_prompt=auto","isGoogleEnabled":true,"AmazonUrl":"https:\/\/www.amazon.com\/ap\/oa?client_id=amzn1.application-oa2-client.cd3f6ad5d4fb4c7b8b9aa2d0f2af414c&scope=profile&response_type=code&redirect_uri=https%3A%2F%2Felise.vn%2Fsociallogin%2Famazon%2Fconnect","isAmazonEnabled":true,"InstagramUrl":"https:\/\/api.instagram.com\/oauth\/authorize?client_id=64181602656747debdfc2342d9665801&redirect_uri=https%3A%2F%2Felise.vn%2Fsociallogin%2Finstagram%2Fconnect%2F&scope=basic&response_type=code","isInstagramEnabled":true,"LineUrl":"https:\/\/access.line.me\/oauth2\/v2.1\/authorize?response_type=code&client_id=1602232851&redirect_uri=https%3A%2F%2Felise.vn%2Fsociallogin%2Fline%2Fconnect&state=GDQ3CA&scope=profile","isLineEnabled":true,"PinterestUrl":"https:\/\/api.pinterest.com\/oauth?response_type=code&client_id=4984472831283705412&scope=read_public+write_public&redirect_uri=https%3A%2F%2Felise.vn%2Fsociallogin%2Fpinterest%2Fconnect%2F","isPinterestEnabled":true,"RedditUrl":"https:\/\/www.reddit.com\/api\/v1\/authorize?client_id=F9Xpd-OUzOS5_g&response_type=code&state=access&redirect_uri=https%3A%2F%2Felise.vn%2Fsociallogin%2Freddit%2Fconnect&duration=temporary&scope=identity","isRedditEnabled":true,"LinkedInUrl":"https:\/\/www.linkedin.com\/uas\/oauth2\/authorization?response_type=code&redirect_uri=https%3A%2F%2Felise.vn%2Fsociallogin%2Flinkedin%2Fconnect%2F&client_id=81nyrbn0y1bskn&scope=r_basicprofile+r_emailaddress&state=sociallogin","isLinkedInEnabled":true};
+  </script>
+  <!-- ko template: getTemplate() -->
+  <!-- /ko -->
+  <script type="text/x-magento-init">
+   {
+            "#modal_content": {
+                "Magento_Ui/js/core/app": {"components":{"modal_content":{"component":"Magenest_SocialLogin\/js\/view\/modal","displayArea":"modal_content"}}}            }
+        }
+  </script>
+  <script>
+   require([
+            'mage/url',
+            'Magento_Ui/js/block-loader'
+        ], function(url, blockLoader) {
+            blockLoader("https://elise.vn/static/version1705548662/frontend/Magenest/elise/vi_VN/images/loader-1.gif");
+            return url.setBaseUrl('https://elise.vn/');
+        })
+  </script>
+ </div>
+ <script type="text/x-magento-init">
+  {
+        "*": {
+                "Magento_Catalog/js/product/view/provider": {
+                    "data": {"items":{"56869":{"add_to_cart_button":{"post_data":"{\"action\":\"https:\\\/\\\/elise.vn\\\/checkout\\\/cart\\\/add\\\/uenc\\\/%25uenc%25\\\/product\\\/56869\\\/\",\"data\":{\"product\":\"56869\",\"uenc\":\"%uenc%\"}}","url":"https:\/\/elise.vn\/checkout\/cart\/add\/uenc\/%25uenc%25\/product\/56869\/","required_options":true},"add_to_compare_button":{"post_data":null,"url":"{\"action\":\"https:\\\/\\\/elise.vn\\\/catalog\\\/product_compare\\\/add\\\/\",\"data\":{\"product\":\"56869\",\"uenc\":\"aHR0cHM6Ly9lbGlzZS52bi9zbS10by10aW0tZGFtLXRheS1waG9uZy10aGV1LWhvYS1mczIzMTIwMjJ0c29ycGsuaHRtbA,,\"}}","required_options":null},"price_info":{"final_price":1298000,"max_price":1298000,"max_regular_price":1298000,"minimal_regular_price":1298000,"special_price":null,"minimal_price":1298000,"regular_price":1298000,"formatted_prices":{"final_price":"<span class=\"price\">1.298.000\u00a0VND<\/span>","max_price":"<span class=\"price\">1.298.000\u00a0VND<\/span>","minimal_price":"<span class=\"price\">1.298.000\u00a0VND<\/span>","max_regular_price":"<span class=\"price\">1.298.000\u00a0VND<\/span>","minimal_regular_price":null,"special_price":null,"regular_price":"<span class=\"price\">1.298.000\u00a0VND<\/span>"},"extension_attributes":{"msrp":{"msrp_price":"<span class=\"price\">0\u00a0VND<\/span>","is_applicable":"","is_shown_price_on_gesture":"","msrp_message":"","explanation_message":"Our price is lower than the manufacturer&#039;s &quot;minimum advertised price.&quot; As a result, we cannot show you the price in catalog or the product page. <br><br> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart."},"tax_adjustments":{"final_price":1298000,"max_price":1298000,"max_regular_price":1298000,"minimal_regular_price":1298000,"special_price":1298000,"minimal_price":1298000,"regular_price":1298000,"formatted_prices":{"final_price":"<span class=\"price\">1.298.000\u00a0VND<\/span>","max_price":"<span class=\"price\">1.298.000\u00a0VND<\/span>","minimal_price":"<span class=\"price\">1.298.000\u00a0VND<\/span>","max_regular_price":"<span class=\"price\">1.298.000\u00a0VND<\/span>","minimal_regular_price":null,"special_price":"<span class=\"price\">1.298.000\u00a0VND<\/span>","regular_price":"<span class=\"price\">1.298.000\u00a0VND<\/span>"}},"weee_attributes":[],"weee_adjustment":"<span class=\"price\">1.298.000\u00a0VND<\/span>"}},"images":[{"url":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/42ce6a0c7b997fd5d866164002bbb257\/f\/s\/fs2312022tsorpk.jpg","code":"recently_viewed_products_grid_content_widget","height":300,"width":240,"label":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA","resized_width":200,"resized_height":300},{"url":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/f93d72bbfa0fb75b10deb9e4703b8de5\/f\/s\/fs2312022tsorpk.jpg","code":"recently_viewed_products_list_content_widget","height":270,"width":270,"label":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA","resized_width":180,"resized_height":270},{"url":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/c5c6e0858523f8faa2925c1139f55dcc\/f\/s\/fs2312022tsorpk.jpg","code":"recently_viewed_products_images_names_widget","height":90,"width":75,"label":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA","resized_width":60,"resized_height":90},{"url":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/42ce6a0c7b997fd5d866164002bbb257\/f\/s\/fs2312022tsorpk.jpg","code":"recently_compared_products_grid_content_widget","height":300,"width":240,"label":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA","resized_width":200,"resized_height":300},{"url":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/91bbc9a5d61741cf6800ff85c3deff8c\/f\/s\/fs2312022tsorpk.jpg","code":"recently_compared_products_list_content_widget","height":207,"width":270,"label":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA","resized_width":138,"resized_height":207},{"url":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/c5c6e0858523f8faa2925c1139f55dcc\/f\/s\/fs2312022tsorpk2.jpg","code":"recently_compared_products_images_names_widget","height":90,"width":75,"label":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA","resized_width":60,"resized_height":90}],"url":"https:\/\/elise.vn\/sm-to-tim-dam-tay-phong-theu-hoa-fs2312022tsorpk.html","id":56869,"name":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA","type":"configurable","is_salable":"1","store_id":2,"currency_code":"VND","extension_attributes":{"review_html":"\t<div class=\"product-reviews-summary short empty\">\n\t\t<div class=\"rating-summary\">\n\t\t\t<a title=\"H\u00e3y l\u00e0 ng\u01b0\u1eddi \u0111\u1ea7u ti\u00ean \u0111\u00e1nh gi\u00e1 s\u1ea3n ph\u1ea9m n\u00e0y.\" href=\"https:\/\/elise.vn\/sm-to-tim-dam-tay-phong-theu-hoa-fs2312022tsorpk.html#reviews\">\n\t\t\t\t<span class=\"rating-result\">\n\t\t\t\t\t<span style=\"width: 0;\"><\/span>\n\t\t\t\t<\/span>\n\t\t\t<\/a>\n\t\t<\/div>\n\t<\/div>\n","wishlist_button":{"post_data":null,"url":"{\"action\":\"https:\\\/\\\/elise.vn\\\/wishlist\\\/index\\\/add\\\/\",\"data\":{\"product\":56869,\"uenc\":\"aHR0cHM6Ly9lbGlzZS52bi9zbS10by10aW0tZGFtLXRheS1waG9uZy10aGV1LWhvYS1mczIzMTIwMjJ0c29ycGsuaHRtbA,,\"}}","required_options":null}}}},"store":"2","currency":"VND","productCurrentScope":"website"}            }
+        }
+    }
+ </script>
+ <input id="mgs_template_layout" name="mgs_template_layout" type="hidden" value="2"/>
+ <input id="galleryPopup" name="galleryPopup" type="hidden" value="1"/>
+ <div class="no-display price product-price">
+  1298000
+ </div>
+ <div class="row product-detail-infomation-sticky-parent">
+  <div class="col-sm-6 col-xs-12 product-gallery-popup">
+   <div class="product-detail-media">
+    <input id="glr_layout" name="glr_layout" type="hidden" value="2"/>
+    <input id="zoom_image" name="zoom_image" type="hidden" value="0"/>
+    <input id="lbox_image" name="lbox_image" type="hidden" value="1"/>
+    <input id="zoom_mobile" name="zoom_mobile" type="hidden" value="1"/>
+    <input id="view_type" name="view_type" type="hidden" value=""/>
+    <div class="xxx product media">
+     <div class="gallery-list">
+      <div class="product item-image imgzoom">
+       <a class="lb image-detail" data-big="https://elise.vn/media/catalog/product/cache/bb52e54e5ec1828d48ae8bf7c98f9f69/f/s/fs2312022tsorpk.jpg">
+        <img alt="SM TƠ TÍM ĐẬM TAY PHỒNG THÊU HOA" class="img-responsive" src="https://elise.vn/media/catalog/product/cache/bb52e54e5ec1828d48ae8bf7c98f9f69/f/s/fs2312022tsorpk.jpg"/>
+       </a>
+      </div>
+      <div class="product item-image imgzoom">
+       <a class="lb image-detail" data-big="https://elise.vn/media/catalog/product/cache/bb52e54e5ec1828d48ae8bf7c98f9f69/f/s/fs2312022tsorpk2.jpg">
+        <img alt="SM TƠ TÍM ĐẬM TAY PHỒNG THÊU HOA" class="img-responsive" src="https://elise.vn/media/catalog/product/cache/bb52e54e5ec1828d48ae8bf7c98f9f69/f/s/fs2312022tsorpk2.jpg"/>
+       </a>
+      </div>
+      <div class="product item-image imgzoom">
+       <a class="lb image-detail" data-big="https://elise.vn/media/catalog/product/cache/bb52e54e5ec1828d48ae8bf7c98f9f69/f/s/fs2312022tsorpk3.jpg">
+        <img alt="SM TƠ TÍM ĐẬM TAY PHỒNG THÊU HOA" class="img-responsive" src="https://elise.vn/media/catalog/product/cache/bb52e54e5ec1828d48ae8bf7c98f9f69/f/s/fs2312022tsorpk3.jpg"/>
+       </a>
+      </div>
+      <div class="product item-image imgzoom">
+       <a class="lb image-detail" data-big="https://elise.vn/media/catalog/product/cache/bb52e54e5ec1828d48ae8bf7c98f9f69/f/s/fs2312022tsorpk1.jpg">
+        <img alt="SM TƠ TÍM ĐẬM TAY PHỒNG THÊU HOA" class="img-responsive" src="https://elise.vn/media/catalog/product/cache/bb52e54e5ec1828d48ae8bf7c98f9f69/f/s/fs2312022tsorpk1.jpg"/>
+       </a>
+      </div>
+     </div>
+     <script type="text/javascript">
+      require(['jquery', 'pan-zoom'], function ($, pan) {
+        $('.imgzoom .lb').pan();
+    });
+     </script>
+    </div>
+    <script type="text/javascript">
+     require([
+        'jquery',
+        'magnificPopup'
+    ], function($){
+        $('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
+            type: "iframe",
+            mainClass: "mfp-img-gallery",
+            preloader: true,
+            fixedContentPos: true,
+        });
+    });
+    </script>
+   </div>
+  </div>
+  <div class="col-sm-6 col-xs-12 product-detail-infomation product-detail-infomation-sticky">
+   <div class="3product-detail-infomation-content">
+    <div class="product-info-main">
+     <div class="product-name-label">
+      <h1 class="product-name">
+       SM TƠ TÍM ĐẬM TAY PHỒNG THÊU HOA
+      </h1>
+     </div>
+     <div class="product-info-price">
+      <div class="price-box price-final_price" data-price-box="product-id-56869" data-product-id="56869" data-role="priceBox">
+       <span class="price-container price-final_price tax weee" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <span class="price-wrapper" data-price-amount="1298000" data-price-type="finalPrice" id="product-price-56869">
+         <span class="price">
+          1.298.000 VND
+         </span>
+        </span>
+        <meta content="1298000" itemprop="price"/>
+        <meta content="VND" itemprop="priceCurrency"/>
+       </span>
+      </div>
+     </div>
+     <div class="product attribute sku">
+      <strong class="type">
+       SKU
+      </strong>
+      <span class="value" itemprop="sku">
+       FS2312022TSORPK
+      </span>
+     </div>
+     <div class="product-add-form">
+      <form action="https://elise.vn/checkout/cart/add/uenc/aHR0cHM6Ly9lbGlzZS52bi9zbS10by10aW0tZGFtLXRheS1waG9uZy10aGV1LWhvYS1mczIzMTIwMjJ0c29ycGsuaHRtbA%2C%2C/product/56869/" data-product-sku="FS2312022TSORPK" id="product_addtocart_form" method="post">
+       <input name="product" type="hidden" value="56869"/>
+       <input name="selected_configurable_option" type="hidden" value=""/>
+       <input id="related-products-field" name="related_product" type="hidden" value=""/>
+       <input name="item" type="hidden" value="56869"/>
+       <input name="form_key" type="hidden" value="VTr5Z92C5lbeMuWz"/>
+       <div class="product-options-wrapper" data-hasrequired="* Đây là trường bắt buộc." id="product-options-wrapper">
+        <div class="fieldset" tabindex="0">
+         <div class="swatch-opt" data-role="swatch-options">
+         </div>
+         <script type="text/x-magento-init">
+          {
+        "[data-role=swatch-options]": {
+            "Magento_Swatches/js/swatch-renderer": {
+                "jsonConfig": {"attributes":{"178":{"id":"178","code":"size","label":"K\u00edch c\u1ee1","options":[{"id":"5431","label":"S","products":["56865"]},{"id":"5432","label":"M","products":["56866"]},{"id":"5434","label":"L","products":["56867"]},{"id":"5433","label":"XL","products":["56868"]}],"position":"0","type":""}},"template":"<%- data.price %>\u00a0VND","currencyFormat":"%s\u00a0VND","optionPrices":{"56865":{"oldPrice":{"amount":1298000},"basePrice":{"amount":1298000},"finalPrice":{"amount":1298000},"tierPrices":[],"msrpPrice":{"amount":null}},"56866":{"oldPrice":{"amount":1298000},"basePrice":{"amount":1298000},"finalPrice":{"amount":1298000},"tierPrices":[],"msrpPrice":{"amount":null}},"56867":{"oldPrice":{"amount":1298000},"basePrice":{"amount":1298000},"finalPrice":{"amount":1298000},"tierPrices":[],"msrpPrice":{"amount":null}},"56868":{"oldPrice":{"amount":1298000},"basePrice":{"amount":1298000},"finalPrice":{"amount":1298000},"tierPrices":[],"msrpPrice":{"amount":null}}},"priceFormat":{"pattern":"%s\u00a0VND","precision":0,"requiredPrecision":0,"decimalSymbol":",","groupSymbol":".","groupLength":3,"integerRequired":true},"prices":{"oldPrice":{"amount":1298000},"basePrice":{"amount":1298000},"finalPrice":{"amount":1298000}},"productId":"56869","chooseText":"Ch\u1ecdn m\u1ed9t t\u00f9y ch\u1ecdn...","images":[],"index":{"56865":{"178":"5431"},"56866":{"178":"5432"},"56867":{"178":"5434"},"56868":{"178":"5433"}},"bundle_id":"56869","currencySymbol":"\u20ab","considerTierPricesInFromToPrice":null,"hidePrice":false,"priceText":"Please Login or Register to buy this product!","setOpenGraphUrl":"https:\/\/elise.vn\/cpi\/product\/UpdateOpenGraph\/","attribute_prefix":"","useCustomOptionsForVariations":"1","loadOptionsUrl":"https:\/\/elise.vn\/cpi\/product\/LoadOptions\/","configManageStock":true,"parentProductName":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA","x_matrix_axis":{"code":null},"y_matrix_axis":{"code":null},"customAttributes":{"parent":{"name":{"value":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA","class":".page-title .base"},"sku":{"value":"FS2312022TSORPK","class":".product-info-stock-sku .value"},"breadcrumbs":{"value":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA","class":".breadcrumbs .items .product"}},"56865":{"name":{"value":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA-S","class":".page-title .base"},"sku":{"value":"FS2312022TSORPKS","class":".product-info-stock-sku .value"},"breadcrumbs":{"value":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA-S","class":".breadcrumbs .items .product"},"custom_1":[],"custom_2":[],"custom_3":[]},"56866":{"name":{"value":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA-M","class":".page-title .base"},"sku":{"value":"FS2312022TSORPKM","class":".product-info-stock-sku .value"},"breadcrumbs":{"value":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA-M","class":".breadcrumbs .items .product"},"custom_1":[],"custom_2":[],"custom_3":[]},"56867":{"name":{"value":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA-L","class":".page-title .base"},"sku":{"value":"FS2312022TSORPKL","class":".product-info-stock-sku .value"},"breadcrumbs":{"value":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA-L","class":".breadcrumbs .items .product"},"custom_1":[],"custom_2":[],"custom_3":[]},"56868":{"name":{"value":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA-XL","class":".page-title .base"},"sku":{"value":"FS2312022TSORPKXL","class":".product-info-stock-sku .value"},"breadcrumbs":{"value":"SM T\u01a0 T\u00cdM \u0110\u1eacM TAY PH\u1ed2NG TH\u00caU HOA-XL","class":".breadcrumbs .items .product"},"custom_1":[],"custom_2":[],"custom_3":[]}},"urls":{"parent":"https:\/\/elise.vn\/sm-to-tim-dam-tay-phong-theu-hoa-fs2312022tsorpk.html","56865":"","56866":"","56867":"","56868":""},"deliveryDate":{"parent":[],"block":null},"stockQty":{"56865":"80.0000","56866":"77.0000","56867":"74.0000","56868":"40.0000"}},
+                "jsonSwatchConfig": {"178":{"5431":{"type":"0","value":"S","label":"S"},"5432":{"type":"0","value":"M","label":"M"},"5434":{"type":"0","value":"L","label":"L"},"5433":{"type":"0","value":"XL","label":"XL"},"additional_data":"{\"swatch_input_type\":\"text\",\"update_product_preview_image\":\"0\",\"use_product_image_for_swatch\":0}"}},
+                "mediaCallback": "https\u003A\u002F\u002Felise.vn\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                "gallerySwitchStrategy": "replace",
+                "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                "showTooltip": 1            }
+        },
+        "*" : {
+            "Magento_Swatches/js/catalog-add-to-cart": {}
+        }
+    }
+         </script>
+         <script>
+          require([
+    'jquery',
+    'jquery-ui-modules/datepicker'
+], function($){
+
+//<![CDATA[
+    $.extend(true, $, {
+        calendarConfig: {
+            dayNames: ["Ch\u1ee7 Nh\u1eadt","Th\u1ee9 Hai","Th\u1ee9 Ba","Th\u1ee9 T\u01b0","Th\u1ee9 N\u0103m","Th\u1ee9 S\u00e1u","Th\u1ee9 B\u1ea3y"],
+            dayNamesMin: ["CN","Th 2","Th 3","Th 4","Th 5","Th 6","Th 7"],
+            monthNames: ["th\u00e1ng 1","th\u00e1ng 2","th\u00e1ng 3","th\u00e1ng 4","th\u00e1ng 5","th\u00e1ng 6","th\u00e1ng 7","th\u00e1ng 8","th\u00e1ng 9","th\u00e1ng 10","th\u00e1ng 11","th\u00e1ng 12"],
+            monthNamesShort: ["thg 1","thg 2","thg 3","thg 4","thg 5","thg 6","thg 7","thg 8","thg 9","thg 10","thg 11","thg 12"],
+            infoTitle: "V\u00EA\u0300\u0020li\u0323ch",
+            firstDay: 0,
+            closeText: "\u0110\u00F3ng",
+            currentText: "\u0110\u00EA\u0301n\u0020nga\u0300y\u0020h\u00F4m\u0020nay",
+            prevText: "Tr\u01B0\u1EDBc",
+            nextText: "Ti\u1EBFp\u0020theo",
+            weekHeader: "WK",
+            timeText: "Th\u1EDDi\u0020Gian",
+            hourText: "Gi\u01A1\u0300",
+            minuteText: "Phu\u0301t",
+            dateFormat: $.datepicker.RFC_2822,
+            showOn: "button",
+            showAnim: "",
+            changeMonth: true,
+            changeYear: true,
+            buttonImageOnly: null,
+            buttonImage: null,
+            showButtonPanel: true,
+            showWeek: true,
+            timeFormat: '',
+            showTime: false,
+            showHour: false,
+            showMinute: false
+        }
+    });
+
+    enUS = {"m":{"wide":["January","February","March","April","May","June","July","August","September","October","November","December"],"abbr":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}}; // en_US locale reference
+//]]>
+
+});
+         </script>
+        </div>
+       </div>
+       <div class="product-options-bottom">
+        <div class="box-tocart">
+         <div data-bind="scope:'instant-purchase'" id="instant-purchase">
+          <!-- ko template: getTemplate() -->
+          <!-- /ko -->
+         </div>
+         <script type="text/x-magento-init">
+          {
+        "#instant-purchase": {
+            "Magento_Ui/js/core/app": {"components":{"instant-purchase":{"component":"Magento_InstantPurchase\/js\/view\/instant-purchase","config":{"template":"Magento_InstantPurchase\/instant-purchase","buttonText":"Instant Purchase","purchaseUrl":"https:\/\/elise.vn\/instantpurchase\/button\/placeOrder\/"}}}}        }
+    }
+         </script>
+         <div class="fieldset qty">
+          <div class="field">
+           <label class="label" for="qty">
+            <span>
+             Số lượng
+            </span>
+           </label>
+           <div class="control">
+            <span class="edit-qty minus" onclick="minusQty('qty')">
+             <i class="fal fa-minus">
+             </i>
+            </span>
+            <input class="input-text qty" data-validate='{"required-number":true,"validate-item-quantity":{"minAllowed":1,"maxAllowed":10000}}' id="qty" maxlength="12" name="qty" title="Qty" type="number" value="1"/>
+            <span class="edit-qty plus" onclick="plusQty('qty')">
+             <i class="fal fa-plus">
+             </i>
+            </span>
+           </div>
+           <div class="out-stock-noti" style="display: none">
+            <i class="fal fa-exclamation-circle">
+            </i>
+            <span>
+             Hết hàng
+            </span>
+           </div>
+           <div class="out-stock-noti" style="display: none">
+           </div>
+          </div>
+         </div>
+         <div class="actions action-add-to">
+          <button class="action primary tocart uppercase in-stock" id="product-addtocart-button" title="Thêm vào giỏ" type="submit">
+           <span>
+            Thêm vào giỏ
+           </span>
+          </button>
+          <button class="action towishlist uppercase" data-action="add-to-wishlist" data-post='{"action":"https:\/\/elise.vn\/wishlist\/index\/add\/","data":{"product":56869,"uenc":"aHR0cHM6Ly9lbGlzZS52bi9zbS10by10aW0tZGFtLXRheS1waG9uZy10aGV1LWhvYS1mczIzMTIwMjJ0c29ycGsuaHRtbA,,"}}' title="Thêm vào yêu thích" type="button">
+           <span>
+            Thêm vào yêu thích
+           </span>
+          </button>
+          <button class="btn-insta btn-insta-desktop" type="button">
+           <a href="#" id="click-header">
+            Mua ngay với
+           </a>
+          </button>
+          <script>
+           require([
+                    'jquery',
+                    'mage/url',
+                    'Magento_Customer/js/customer-data'
+                ], function($, urlBuilder, customerData) {
+
+                    function checkEnableButtonBuyNow(qty) {
+                        let max = 20000000;
+                        let min = 100000;
+                        let price = 0;
+                        if($('#bundleSummary') && $('#bundleSummary').find('span.price').length > 0) {
+                            price = $('#bundleSummary span.price')[0]?.textContent.replaceAll('.', '');
+                        } else {
+                            price = $('.product-info-price span.price')[0]?.textContent.replaceAll('.', '');
+                        }
+                        // let price = $('.product-info-price span.price')[0].textContent.split(' ')[0];
+                        // price = parseFloat(price.replaceAll('.', ''));
+                        price = parseFloat(price.split(' ')[0]);
+                        if((price * parseInt(qty)) > parseFloat(max) || (price * parseInt(qty)) < parseFloat(min)) {
+                            $(".btn-insta").hide();
+                        } else {
+                            $(".btn-insta").show();
+                        }
+                    }
+
+                    $( ".product-options-wrapper .swatch-opt" ).click(function() {
+                        let data = $('#product_addtocart_form').serializeArray();
+                        let qty = 0;
+                        data.forEach(function (item, index) {
+                            if (item.name === 'qty') {
+                                qty = parseInt(item.value);
+                            }
+                        });
+                        checkEnableButtonBuyNow(qty);
+                        selpro();
+                    });
+
+                    $('.edit-qty').click(function() {
+                        let data = $('#product_addtocart_form').serializeArray();
+                        let qty = 0;
+                        data.forEach(function (item, index) {
+                            if (item.name === 'qty') {
+                                qty = parseInt(item.value);
+                            }
+                        });
+                        if($(this).hasClass('minus')) {
+                            qty = (qty - 1) <= 0 ? 1 : (qty - 1);
+                        } else {
+                            qty += 1;
+                        }
+                        checkEnableButtonBuyNow(qty);
+                    });
+
+                    var productId = '';
+
+                    function selpro () {
+                        var selected_options = {};
+                        $('div.swatch-attribute').each(function(k,v){
+                            var attribute_id    = $(v).attr('attribute-id');
+                            var option_selected = $(v).attr('option-selected');
+                            //console.log(attribute_id, option_selected);
+                            if(!attribute_id || !option_selected){ return;}
+                            selected_options[attribute_id] = option_selected;
+                        });
+
+                        var product_id_index = $('[data-role=swatch-options]').data('mageSwatchRenderer')?.options.jsonConfig.index;
+                        $.each(product_id_index, function(product_id,attributes){
+                            var productIsSelected = function(attributes, selected_options){
+                                return _.isEqual(attributes, selected_options);
+                            }
+                            if(productIsSelected(attributes, selected_options)){
+                                productId = product_id;
+                            }
+                        });
+                    }
+
+                    function buyNow() {
+                                                if ($('#product_addtocart_form').valid('isValid')) {
+                            let data = $('#product_addtocart_form').serializeArray();
+                            let qty = 0;
+                            data.forEach(function (item, index) {
+                                if (item.name === 'qty') {
+                                    qty = item.value;
+                                }
+                            });
+                            $.ajax({
+                                url: 'insta_payment/paymentinsta/buynow',
+                                dataType: "json",
+                                type: 'POST',
+                                showLoader: true,
+                                data: {
+                                    parent_id: 56869,
+                                    product_id: productId,
+                                    qty: qty,
+                                    // popup_form: dataPopup,
+                                }
+                            }).done(function (result) {
+                                customerData.set('custom', {'data_id': 151, 'buy_now': true});
+                                customerData.invalidate(['cart', 'directory-data']);
+                                customerData.reload(['cart', 'directory-data'], true);
+                                var url = urlBuilder.build("checkout/index/index");
+                                window.location.replace(url);
+                            }).fail(function (err) {
+                                console.log(err);
+                            });
+                        }
+                                            }
+
+                    $("#click-header").on('click',function(){
+                        var form_add_to_cart = $('#product_addtocart_form');
+                                                    if (form_add_to_cart.valid('isValid')) {
+                                buyNow();
+                            }
+                                            });
+                    $("#click-header-mobile").on('click',function(){
+                                                let product_info_modal_mobile = $('#product_info_modal_mobile');
+                        product_info_modal_mobile.css("display", "block");
+                        product_info_modal_mobile.addClass("in");
+                        product_info_modal_mobile.attr("aria-hidden","false");
+                        let isValid = $('#product_addtocart_form').valid('isValid');
+                        product_info_modal_mobile.css("display", "none");
+                        product_info_modal_mobile.removeClass("in");
+                        product_info_modal_mobile.attr("aria-hidden","true");
+                        // product_info_modal_mobile.addClass("in");
+                        // product_info_modal_mobile.attr("aria-hidden","false");
+                        // $('#product_info_modal_mobile .fa-times').on('click', function() {
+                        //     product_info_modal_mobile.css("display", "none");
+                        //     product_info_modal_mobile.removeClass("in");
+                        //     product_info_modal_mobile.attr("aria-hidden","true");
+                        // });
+                        if (isValid) {
+                            buyNow();
+                        } else {
+                            $('.product-detail-infomation-sticky-parent .more').click();
+                        }
+                                            });
+                });
+          </script>
+         </div>
+         <div class="clearfix">
+         </div>
+        </div>
+        <script type="text/x-magento-init">
+         {
+        "#product_addtocart_form": {
+            "Magento_Catalog/product/view/validation": {
+                "radioCheckboxClosest": ".nested"
+            }
+        }
+    }
+        </script>
+        <script type="text/x-magento-init">
+         {
+        "#product_addtocart_form": {
+            "Magento_Catalog/js/validate-product": {}
+        }
+    }
+        </script>
+        <script type="text/x-magento-init">
+         {
+            "#product_addtocart_form": {
+                "catalogAddToCart": {
+                    "bindSubmit": false
+                }
+            }
+        }
+        </script>
+        <script type="text/javascript">
+         function plusQty(qtyInput){
+            require([
+                'jquery'
+            ], function(jQuery){
+                (function($) {
+                    if($('#'+qtyInput).attr('disabled')!='disabled'){
+                        qty = $('#'+qtyInput).attr('value');
+                        qty = parseInt(qty);
+                        qty++;
+                        $('#'+qtyInput).val(qty);
+                    }
+                })(jQuery);
+            });
+
+        }
+        function minusQty(qtyInput){
+            require([
+                'jquery'
+            ], function(jQuery){
+                (function($) {
+                    if($('#'+qtyInput).attr('disabled')!='disabled'){
+                        qty = $('#'+qtyInput).attr('value');
+                        qty = parseInt(qty);
+
+                        if(qty>1){
+                            qty--;
+                            $('#'+qtyInput).val(qty);
+                        }
+                    }
+                })(jQuery);
+            });
+        }
+        </script>
+       </div>
+      </form>
+     </div>
+     <script>
+      require([
+        'jquery',
+        'priceBox'
+    ], function($){
+        var dataPriceBoxSelector = '[data-role=priceBox]',
+            dataProductIdSelector = '[data-product-id=56869]',
+            priceBoxes = $(dataPriceBoxSelector + dataProductIdSelector);
+
+        priceBoxes = priceBoxes.filter(function(index, elem){
+            return !$(elem).find('.price-from').length;
+        });
+
+        priceBoxes.priceBox({'priceConfig': {"productId":56869,"priceFormat":{"pattern":"%s\u00a0VND","precision":0,"requiredPrecision":0,"decimalSymbol":",","groupSymbol":".","groupLength":3,"integerRequired":true},"prices":{"oldPrice":{"amount":1298000,"adjustments":[]},"basePrice":{"amount":1298000,"adjustments":[]},"finalPrice":{"amount":1298000,"adjustments":[]}},"idSuffix":"_clone","tierPrices":[],"calculationAlgorithm":"TOTAL_BASE_CALCULATION"}});
+    });
+     </script>
+     <div class="extra-link uppercase">
+      <a class="link-shopping-guide" data-target="#shopping_guide_modal" data-toggle="modal">
+       <i class="fas fa-caret-right">
+       </i>
+       Hướng dẫn mua hàng
+      </a>
+      <a class="link-size-guide" data-target="#size_guide_modal" data-toggle="modal">
+       <i class="fas fa-caret-right">
+       </i>
+       Hướng dẫn chọn kích cỡ
+      </a>
+      <a class="link-share" id="facebook-share">
+       <i class="fas fa-caret-right">
+       </i>
+       Chia sẻ
+      </a>
+      <span class="share">
+      </span>
+     </div>
+     <div>
+      <script>
+       require([
+                    'jquery',
+                    'hideshare'
+                ], function ($) {
+                    'use strict';
+                    $(".product-info-main .share").hideshare({
+                        link: document.URL,
+                        title: "SM TƠ TÍM ĐẬM TAY PHỒNG THÊU HOA",
+                        media:  "https://elise.vn/media/catalog/product/f/s/fs2312022tsorpk.jpg",
+                        decription: "",
+                        twitter: false,
+                        facebook: true,
+                        linkedin: false,
+                        pinterest: false,
+                        reddit: false,
+                        position: "bottom",
+                        speed: 50
+                    });
+                });
+      </script>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <script type="text/javascript">
+  require([
+        'jquery'
+    ], function (jQuery) {
+        (function ($) {
+            $(document).ready(function () {
+                $('.product-info-main .product-reviews-summary a').click(function (event) {
+                    event.returnValue = false;
+                    event.preventDefault();
+                    $('html, body').animate({
+                        scrollTop: $(".product.info.detailed").offset().top - 150
+                    }, 300);
+                });
+            });
+        })(jQuery);
+    });
+ </script>
+ <div class="extra-modal-product-info shopping-guide-modal modal fade" id="shopping_guide_modal">
+  <div class="modal-dialog">
+   <button class="close" data-dismiss="modal" type="button">
+    <i class="fal fa-times">
+    </i>
+   </button>
+   <h4 class="heading-title uppercase">
+    <span class="title">
+     Hướng dẫn mua hàng
+    </span>
+   </h4>
+   <div class="scrollbar-inner">
+    <div class="modal-content">
+     <div class="modal-body elise-scroll">
+      <p>
+       <span style="color: #000000;">
+        <strong>
+         BƯỚC 1: TÌM KIẾM VÀ LỰA CHỌN SẢN PHẨM YÊU THÍCH
+        </strong>
+       </span>
+      </p>
+      <p>
+       <img alt="" src="https://elise.vn/media/wysiwyg/B_c_1.jpg"/>
+      </p>
+      <p>
+       - Quý khách có thể tìm kiếm sản phẩm theo 2 cách:
+      </p>
+      <p>
+       <strong>
+        Cách 1: Nhập tên hoặc mã sản phẩm vào thanh công cụ tìm kiếm
+       </strong>
+      </p>
+      <p>
+       <strong>
+        Cách 2: Tìm theo danh mục sản phẩm trên thanh menu (Online Exclusive; BST mới – Bao gồm các sản phẩm đầm, áo, chân váy...)
+       </strong>
+      </p>
+      <p>
+       - Sau khi tìm kiếm và lựa chọn được sản phẩm yêu thích, Quý khách vui lòng chọn kích cỡ và số lượng sản phẩm muốn mua và chọn mua bằng cách bấm chuột vào nút "THÊM VÀO GIỎ".
+      </p>
+      <p>
+       - Khi đã lựa chọn được đủ các sản phẩm cần mua, khách hàng click vào icon giỏ hàng trên góc phải màn hình. Quý khách có thể chọn thêm/bớt số lượng sản phẩm tại đây và chọn "THANH TOÁN" để tiến hành đặt hàng online.
+      </p>
+      <p>
+      </p>
+      <p>
+       <span style="color: #000000;">
+        <strong>
+         BƯỚC 2: THANH TOÁN ĐƠN HÀNG
+        </strong>
+       </span>
+      </p>
+      <p>
+       <img alt="" src="https://elise.vn/media/wysiwyg/B_c_2.0.jpg"/>
+      </p>
+      <p>
+       Trên trang thanh toán, khách hàng đăng nhập/tạo tài khoản theo hướng dẫn hoặc điền địa chỉ email trước khi chuyển sang bước tiếp theo
+      </p>
+      <p>
+       <strong>
+        1.Phương thức vận chuyển &amp; địa chỉ giao hàng
+       </strong>
+      </p>
+      <p>
+       - Giao hàng tại Hà Nội hoặc các tỉnh thành khác
+      </p>
+      <p>
+       - Phí vận chuyển dựa trên trọng lượng kiện hàng và địa điểm giao hàng
+      </p>
+      <p>
+       - Quý khách hàng vui lòng điền đúng, đủ thông tin để Elise có thể giao hàng đến đúng thông tin quý khách đã đăng ký.
+      </p>
+      <p>
+       <img alt="" src="https://elise.vn/media/wysiwyg/B_c_2.1.jpg"/>
+      </p>
+      <p>
+       <strong>
+        2.Phương thức thanh toán
+       </strong>
+      </p>
+      <p>
+       - Khách hàng có thể lựa chọn 1 trong 3 phương thức thanh toán có sẵn: (1) Cổng thanh toán VNPAY; (2) Chuyển khoản; (3) Thanh toán khi nhận hàng – COD.
+      </p>
+      <p>
+       <img alt="" src="https://elise.vn/media/wysiwyg/B_c_2.3.jpg"/>
+      </p>
+      <p>
+       <span style="color: #000000;">
+        <strong>
+         BƯỚC 3: XÁC NHẬN ĐƠN HÀNG
+        </strong>
+       </span>
+      </p>
+      <p>
+       <img alt="" src="https://elise.vn/media/wysiwyg/B_c_3.jpg"/>
+      </p>
+      <p>
+       - Sau khi hoàn tất quy trình mua hàng online trên website, quý khách vui lòng kiểm tra thư điện tử Xác Nhận Đơn Hàng với thông tin chi tiết về các sản phẩm mà khách hàng đã đặt trước đó.
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="extra-modal-product-info size-guide-modal modal fade" id="size_guide_modal">
+  <div class="modal-dialog">
+   <button class="close" data-dismiss="modal" type="button">
+    <i class="fal fa-times">
+    </i>
+   </button>
+   <h4 class="heading-title uppercase">
+    <span class="title">
+     Hướng dẫn chọn kích cỡ
+    </span>
+   </h4>
+   <div class="scrollbar-inner">
+    <div class="modal-content">
+     <div class="modal-body">
+      <p>
+       <img alt="" src="https://elise.vn/media/wysiwyg/Test/z2533970949840_ad896a5cf67ccd09591b50991eb5d85e.jpg"/>
+      </p>
+      <p>
+       <img alt="" src="https://elise.vn/media/wysiwyg/ECOM/size-vn-2404.jpg"/>
+      </p>
+      <p>
+       <img alt="" src="https://elise.vn/media/wysiwyg/ECOM/bq-vn.jpg"/>
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="product info detailed">
+  <div class="product data items" data-mage-init='{"tabs":{"openedState":"active"}}'>
+   <div class="data item title hidden" data-role="collapsible" id="tab-label-reviews">
+    <a class="data switch" data-toggle="trigger" href="#reviews" id="tab-label-reviews-title" tabindex="-1">
+     Nhận xét từ khách hàng
+    </a>
+   </div>
+   <div aria-labelledby="tab-label-reviews-title" class="data item content" data-role="content" id="reviews">
+    <div data-role="product-review" id="product-review-container">
+    </div>
+    <div class="block review-add" id="review-add">
+     <div class="block-title text-center uppercase">
+      <h3 class="title">
+       Đánh giá sản phẩm
+      </h3>
+     </div>
+     <div class="block-content">
+      <div class="message info notlogged" id="review-form">
+       <div>
+        Bạn cần đăng nhập để viết nhận xét. Vui lòng
+        <a href="https://elise.vn/customer/account/login/referer/aHR0cHM6Ly9lbGlzZS52bi9jYXRhbG9nL3Byb2R1Y3Qvdmlldy9pZC81Njg2OS8jcmV2aWV3LWZvcm0%2C/">
+         Đăng nhập
+        </a>
+        or
+        <a href="https://elise.vn/customer/account/create/">
+         Tạo tài khoản
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+    <script>
+     require([
+        'jquery',
+        'Magento_Ui/js/modal/confirm'
+    ], function ($, confirm) {
+        var num = 0;
+
+        $('body').on('click', 'button.add-attachment', function () {
+            $(this).next("input[type='file']").click();
+        });
+        $('body').on('change', 'input.btn_attachment', function () {
+            var input = this,
+                target = $("#preview-body"),
+                files = input.files;
+            if (files) {
+                for (var i = 0; i < files.length; i++) {
+                    var file = files[i];
+                    var name = file.name;
+                    var size = file.size / 1000;
+                    if (!file.type.match('image')) {
+                        alert('Invalid File');
+                        continue;
+                    }
+                    var reader = new FileReader();
+                    reader.onload = function (e) {
+                        var html = generateImage(e.target.result, name, size, num);
+                        target.append(html);
+                        $(".sub_file_" + num).get(0).files = files;
+                        num = num + 1;
+                    };
+                    reader.readAsDataURL(file);
+                }
+            }
+        });
+
+        function generateImage(src, name, size, index) {
+            var result =
+                '<div class="template-download margin-top30 fade in">'
+                + '<div class="preview preview-image">'
+                + '<img onclick="showImage(this)" class="preview-image" src="' + src + '">'
+                + '<button onclick="remove(this)" class="delete" type="button">'
+                + '<i class="fal fa-times"></i>'
+                + '<span>Delete</span>'
+                + '</button>'
+                + '</div>'
+                + '<div class="image-name"><span class="name">' + name + '</span></div>'
+                + '<div class="image-size"><span class="size">' + size + ' KB</span></div>'
+                + '</div>'
+            ;
+            return result;
+        }
+
+        $('#save_gallery').click(function () {
+            $('#new-ticket').submit();
+        });
+    });
+
+    function remove(element) {
+        require(['jquery'],
+            function ($) {
+                var parent = $(element).parents(".template-download");
+                parent.remove();
+            }
+        );
+    }
+
+    function showImage(image) {
+        require(
+            [
+                'jquery',
+                'Magento_Ui/js/modal/alert'
+            ],
+            function ($, alert) {
+                var src = image.currentSrc;
+                alert(
+                    {
+                        title: '',
+                        content: '<image src="' + src + '" />',
+                        actions: {
+                            always: function () {
+                            }
+                        }
+                    }
+                );
+            }
+        );
+    }
+    </script>
+    <script type="text/x-magento-init">
+     {
+        "*": {
+            "Magento_Review/js/process-reviews": {
+                "productReviewUrl": "https\u003A\u002F\u002Felise.vn\u002Freview\u002Fproduct\u002FlistAjax\u002Fid\u002F56869\u002F",
+                "replyUrl":"https\u003A\u002F\u002Felise.vn\u002Freview\u002Freply\u002Fpost\u002F",
+                "voteUrl":"https\u003A\u002F\u002Felise.vn\u002Freview\u002Freview\u002Fvote\u002F",
+                "loadMoreUrl":"https\u003A\u002F\u002Felise.vn\u002Freview\u002Freview\u002Floadmore\u002Fproduct_id\u002F56869\u002F",
+                "reviewsTabSelector": "#tab-label-reviews",
+                "productId": 56869            }
+        }
+    }
+    </script>
+   </div>
+  </div>
+ </div>
+</div>

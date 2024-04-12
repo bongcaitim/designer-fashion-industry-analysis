@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56819",
+        "general_id":"elise_56819",
+        "sku":"FS2312138TSORBL",
+        "product_name":"SM TƠ NHĂN XANH GHI XẾP LY NGỰC",
+        "price":"1.098.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_SM TƠ NHĂN XANH GHI XẾP LY NGỰC":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312138tsorbl1_1.jpg",
+            "002_SM TƠ NHĂN XANH GHI XẾP LY NGỰC":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312138tsorbl3.jpg",
+            "003_SM TƠ NHĂN XANH GHI XẾP LY NGỰC":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312138tsorbl2.jpg",
+            "004_SM TƠ NHĂN XANH GHI XẾP LY NGỰC":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312138tsorbl_1.jpg"
+        }
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "product_id":"56784",
+        "general_id":"elise_56784",
+        "sku":"FF2308168BKWOCR",
+        "product_name":"CV VÂN TRẮNG KEM CẠP LIỀN DẬP LY BÊN",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_CV VÂN TRẮNG KEM CẠP LIỀN DẬP LY BÊN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308168bkwocr2.jpg",
+            "002_CV VÂN TRẮNG KEM CẠP LIỀN DẬP LY BÊN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308168bkwocr_1.jpg",
+            "003_CV VÂN TRẮNG KEM CẠP LIỀN DẬP LY BÊN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308168bkwocr3.jpg"
+        }
+    }
+]

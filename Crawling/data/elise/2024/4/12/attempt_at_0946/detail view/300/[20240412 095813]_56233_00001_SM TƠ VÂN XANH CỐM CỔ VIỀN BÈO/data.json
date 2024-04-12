@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56233",
+        "general_id":"elise_56233",
+        "sku":"FF2307050TLORGE",
+        "product_name":"SM TƠ VÂN XANH CỐM CỔ VIỀN BÈO",
+        "price":"1.198.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_SM TƠ VÂN XANH CỐM CỔ VIỀN BÈO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307050tlorge3.jpg",
+            "002_SM TƠ VÂN XANH CỐM CỔ VIỀN BÈO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307050tlorge.jpg",
+            "003_SM TƠ VÂN XANH CỐM CỔ VIỀN BÈO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307050tlorge1.jpg",
+            "004_SM TƠ VÂN XANH CỐM CỔ VIỀN BÈO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2307050tlorge2.jpg"
+        }
+    }
+]

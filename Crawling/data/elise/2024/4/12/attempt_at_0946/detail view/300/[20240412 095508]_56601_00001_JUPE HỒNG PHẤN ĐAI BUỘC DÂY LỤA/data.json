@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56601",
+        "general_id":"elise_56601",
+        "sku":"FS2401176BKWOPK",
+        "product_name":"JUPE HỒNG PHẤN ĐAI BUỘC DÂY LỤA",
+        "price":"1.398.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_JUPE HỒNG PHẤN ĐAI BUỘC DÂY LỤA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2401176bkwopk.jpg",
+            "002_JUPE HỒNG PHẤN ĐAI BUỘC DÂY LỤA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2401176bkwopk1.jpg",
+            "003_JUPE HỒNG PHẤN ĐAI BUỘC DÂY LỤA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2401176bkwopk3.jpg",
+            "004_JUPE HỒNG PHẤN ĐAI BUỘC DÂY LỤA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2401176bkwopk2.jpg"
+        }
+    }
+]

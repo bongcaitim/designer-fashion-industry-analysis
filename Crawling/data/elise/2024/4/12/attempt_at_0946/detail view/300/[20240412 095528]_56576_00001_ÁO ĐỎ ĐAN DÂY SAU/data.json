@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56576",
+        "general_id":"elise_56576",
+        "sku":"FF2308114TNWORD",
+        "product_name":"ÁO ĐỎ ĐAN DÂY SAU",
+        "price":"1.098.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_ÁO ĐỎ ĐAN DÂY SAU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308114tnwocr3_1.jpg",
+            "002_ÁO ĐỎ ĐAN DÂY SAU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308114tnwocr4.jpg",
+            "003_ÁO ĐỎ ĐAN DÂY SAU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308114tnwocr1_1.jpg",
+            "004_ÁO ĐỎ ĐAN DÂY SAU":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/f\/ff2308114tnwocr2_1.jpg"
+        }
+    }
+]

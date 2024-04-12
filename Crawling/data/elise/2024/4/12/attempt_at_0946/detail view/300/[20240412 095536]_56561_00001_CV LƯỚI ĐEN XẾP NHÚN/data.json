@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56561",
+        "general_id":"elise_56561",
+        "sku":"FS2312098BKLABK",
+        "product_name":"CV LƯỚI ĐEN XẾP NHÚN",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_CV LƯỚI ĐEN XẾP NHÚN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312098bklabk3.jpg",
+            "002_CV LƯỚI ĐEN XẾP NHÚN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312098bklabk1.jpg",
+            "003_CV LƯỚI ĐEN XẾP NHÚN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312098bklabk.jpg",
+            "004_CV LƯỚI ĐEN XẾP NHÚN":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312098bklabk2.jpg"
+        }
+    }
+]

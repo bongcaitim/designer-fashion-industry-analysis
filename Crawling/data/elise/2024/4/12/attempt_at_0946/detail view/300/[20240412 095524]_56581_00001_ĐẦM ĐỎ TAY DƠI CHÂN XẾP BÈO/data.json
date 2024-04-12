@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56581",
+        "general_id":"elise_56581",
+        "sku":"FS2312044DIWORD",
+        "product_name":"ĐẦM ĐỎ TAY DƠI CHÂN XẾP BÈO",
+        "price":"2.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_ĐẦM ĐỎ TAY DƠI CHÂN XẾP BÈO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312044diword.jpg",
+            "002_ĐẦM ĐỎ TAY DƠI CHÂN XẾP BÈO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312044diword3.jpg",
+            "003_ĐẦM ĐỎ TAY DƠI CHÂN XẾP BÈO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312044diword2.jpg",
+            "004_ĐẦM ĐỎ TAY DƠI CHÂN XẾP BÈO":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312044diword1.jpg"
+        }
+    }
+]

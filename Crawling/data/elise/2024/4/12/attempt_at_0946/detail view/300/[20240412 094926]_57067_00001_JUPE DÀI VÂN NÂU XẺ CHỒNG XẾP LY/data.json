@@ -1,0 +1,21 @@
+[
+    {
+        "product_id":"57067",
+        "general_id":"elise_57067",
+        "sku":"FS2401237BKWOBR",
+        "product_name":"JUPE DÀI VÂN NÂU XẺ CHỒNG XẾP LY",
+        "price":"1.298.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_JUPE DÀI VÂN NÂU XẺ CHỒNG XẾP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2401237bkwobr1.jpg",
+            "002_JUPE DÀI VÂN NÂU XẺ CHỒNG XẾP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2401237bkwobr2.jpg",
+            "003_JUPE DÀI VÂN NÂU XẺ CHỒNG XẾP LY":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2401237bkwobr.jpg"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "product_id":"56914",
+        "general_id":"elise_56914",
+        "sku":"FS2312055BPWOWH",
+        "product_name":"QUẦN BAGGY TRẮNG LY GIỮA",
+        "price":"1.198.000 VND",
+        "size":[
+            "S",
+            "M",
+            "L"
+        ],
+        "color":null,
+        "description":null,
+        "image_list":{
+            "001_QUẦN BAGGY TRẮNG LY GIỮA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312055bpwowh1.jpg",
+            "002_QUẦN BAGGY TRẮNG LY GIỮA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312055bpwowh3.jpg",
+            "003_QUẦN BAGGY TRẮNG LY GIỮA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312055bpwowh2.jpg",
+            "004_QUẦN BAGGY TRẮNG LY GIỮA":"https:\/\/elise.vn\/media\/catalog\/product\/cache\/bb52e54e5ec1828d48ae8bf7c98f9f69\/f\/s\/fs2312055bpwowh.jpg"
+        }
+    }
+]
